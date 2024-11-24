@@ -1,0 +1,35 @@
+(function ($) {
+
+  Drupal.behaviors.emeraldMedialibraryBrowse = {
+
+
+    /**
+     * The image is loaded, remove the blur/show the full image
+     *
+     * @param element
+     */
+    imageLoaded: function(element) {
+      const parent = $(element).parents('li.blurred-image');
+      $(parent).addClass('loaded');
+    },
+
+    attach: function (context, settings) {
+      $(once('browse-blurred-image', 'li.blurred-image img', context)).each(function() {
+        // is the image loading complete?
+        if (this.complete) {
+          // this image is already loaded... run the loaded function so it can be shown
+          Drupal.behaviors.emeraldMedialibraryBrowse.imageLoaded(this);
+        }
+        else {
+          console.log('not complete, adding a listener', ' - this', this);
+          $(this).on('load', function () {
+            // run the loaded function
+            Drupal.behaviors.emeraldMedialibraryBrowse.imageLoaded(this);
+          });
+        }
+      });
+    }
+
+  }
+
+}(jQuery));

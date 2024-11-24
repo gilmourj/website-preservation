@@ -1,0 +1,2774 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-29391347-1"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-29391347-1", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path","allow_ad_personalization_signals":false});</script>
+<link rel="canonical" href="https://www.fema.gov/disaster/4806" />
+<meta property="og:title" content="4806" />
+<meta property="og:image" content="https://www.fema.gov/sites/default/files/2020-04/fema_logo_horizontal.png" />
+<meta name="facebook-domain-verification" content="99gx41o8o8q3mrsvbvml6ji6xmwzdn" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/profiles/femad8_gov/themes/fema_uswds/images/favicon.ico" type="image/vnd.microsoft.icon" />
+
+          <title>4806 | FEMA.gov</title>
+          <link rel="stylesheet" media="all" href="/sites/default/files/css/css_8FEdAMquCiuJhSYipzYcbhtSNIIdXwZWrdtVxf3hL-o.css?delta=0&amp;language=ar&amp;theme=fema_uswds&amp;include=eJx1Ug2ugyAMvhCOI5ECVXkWaihuc6d_TFxcZkwI6fdTKC0W3GQK1zVre8QmOE5KVikYKy-oFnl40T4vM5ByBCKrjigCA4pynFEnzhEovFD1GMG0hIHYAnVSVgpp-FZ6TkVURpk5SbijKWAJxfSBCmbdEDy6hhU-Sz1h2iu47VC9XTPBWjOOULmRBdPH29BOGgpWt_DmRNQ94EP0tt8i-4X28i3zZBwQ8VK0JXZT9zY18ZIf0U0U5KxgxAzkzbAUTBbzcHL0CGWpbbzgTQwpXIneSKnDQ38yHPcd3Ijg6zBO3q2_v-Q2h2_25wXS2O0H7P2GP3gqS_Bat6_zD1VA7RY" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_L7-tv93CNTPlL-JIkx8KX_5i_vQL_LUzmUQ807CTCsA.css?delta=1&amp;language=ar&amp;theme=fema_uswds&amp;include=eJx1Ug2ugyAMvhCOI5ECVXkWaihuc6d_TFxcZkwI6fdTKC0W3GQK1zVre8QmOE5KVikYKy-oFnl40T4vM5ByBCKrjigCA4pynFEnzhEovFD1GMG0hIHYAnVSVgpp-FZ6TkVURpk5SbijKWAJxfSBCmbdEDy6hhU-Sz1h2iu47VC9XTPBWjOOULmRBdPH29BOGgpWt_DmRNQ94EP0tt8i-4X28i3zZBwQ8VK0JXZT9zY18ZIf0U0U5KxgxAzkzbAUTBbzcHL0CGWpbbzgTQwpXIneSKnDQ38yHPcd3Ijg6zBO3q2_v-Q2h2_25wXS2O0H7P2GP3gqS_Bat6_zD1VA7RY" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Merriweather:400,700|Source+Sans+Pro:200,400,600,700&amp;display=swap" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_dFRvFob6JDNAS4RsUQY1CcPiGBMswg6gayYWAxV40_s.css?delta=3&amp;language=ar&amp;theme=fema_uswds&amp;include=eJx1Ug2ugyAMvhCOI5ECVXkWaihuc6d_TFxcZkwI6fdTKC0W3GQK1zVre8QmOE5KVikYKy-oFnl40T4vM5ByBCKrjigCA4pynFEnzhEovFD1GMG0hIHYAnVSVgpp-FZ6TkVURpk5SbijKWAJxfSBCmbdEDy6hhU-Sz1h2iu47VC9XTPBWjOOULmRBdPH29BOGgpWt_DmRNQ94EP0tt8i-4X28i3zZBwQ8VK0JXZT9zY18ZIf0U0U5KxgxAzkzbAUTBbzcHL0CGWpbbzgTQwpXIneSKnDQ38yHPcd3Ijg6zBO3q2_v-Q2h2_25wXS2O0H7P2GP3gqS_Bat6_zD1VA7RY" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"ar\/","currentPath":"node\/682169","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"ar","femaLinkPath":"profiles\/femad8_gov\/modules\/custom\/fema_gutenberg\/modules\/fema_link"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJx1koGOgyAMhl8I5yORAtVxVmpo3eae_tjQm5lnQgL9_qb9aerAD1a5nKl1n7eNnpNxJ-KPGEfwXFoX-QI_8DD-yoKprdfFYbeRkOcJ6FKjFVqKbkv1IsYTiJRiILi9RxSBHovGGdvEeQSKTzQ4YgYKLTjCiWDBbPChFNOwdVpD0-EI1jEP1gMRz9o6Yj80t4j3Kp7yK_qBohyVtbvtZ8XkMPeHjA5B5-L4hNsxpngmBitahozhkPDp92FXhBDT0cF7Ft9QX_M60FnuQVpMGnWxU45JbcdJZa8eQE_sgBrxOU7_K7oUD_1emcrP1w3Y0ZcRsW5W5WS7SIpZTM_cE1pIQItGX6p-AfM1fKkfkkUUx7pDs3QYer7ZQzFiCM1f2PiQTPVSl8e8LVVjda_3YOQwE_4CaxE-Zg","theme":"fema_uswds","theme_token":null},"ajaxTrustedUrl":[],"back_to_top":{"back_to_top_button_trigger":"800","back_to_top_prevent_on_mobile":0,"back_to_top_prevent_in_admin":0,"back_to_top_button_type":"image","back_to_top_button_text":"Back to top"},"dynamic_home":{"dynamic_home_timezone":"UTC","dynamic_home_offset":0},"google_analytics":{"account":"UA-29391347-1","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":1},"data":{"extlink":{"extTarget":true,"extTargetAppendNewWindowLabel":"(opens in a new window)","extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"(.*\\.gov)|(.*\\.mil)|(\\.addthis.com)|(.*\\.fema.net)|(s3-us-gov-west-1\\.amazonaws\\.com)|(surveymonkey\\.com)","extInclude":"","extCssExclude":"","extCssInclude":"","extCssExplicit":"","extAlert":true,"extAlertText":"You are now leaving an official website of the Federal Emergency Management Agency. Links to non-FEMA sites are provided for the convenience of the visitor and do not represent an endorsement by FEMA of any commercial or private issues, products or services. Note that the privacy policy of the linked site may differ from that of FEMA.","extHideIcons":false,"mailtoClass":"0","telClass":"","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","whitelistedDomains":[],"extExcludeNoreferrer":""}},"chosen":{"selector":"select:not(\u0022[name^=Data],[id=edit-field-ael-category-target-id],[id*=edit-field-ael-category-target-id],[id=edit-album-name],[id=edit-disaster-declarations],[id=edit-fema-regions]\u0022)","minimum_single":20,"minimum_multiple":0,"minimum_width":100,"use_relative_width":true,"options":{"disable_search":false,"disable_search_threshold":0,"allow_single_deselect":false,"add_helper_buttons":false,"search_contains":false,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match","max_shown_results":null,"inherit_select_classes":true}},"csp":{"nonce":"022Y2twMG9RAYj3y0sQ0oQ"},"views":{"ajax_path":"\/ar\/views\/ajax","ajaxViews":{"views_dom_id:7b23eee27d51c2f19d80bceaba0533d713369b667dcebec259c443074cd46462":{"view_name":"related_links","view_display_id":"block_2","view_args":"","view_path":"\/node\/682169","view_base_path":null,"view_dom_id":"7b23eee27d51c2f19d80bceaba0533d713369b667dcebec259c443074cd46462","pager_element":0}}},"user":{"uid":0,"permissionsHash":"a086488b56f95f018fc390cc1cdd8b285578f0aee5de5071f9750274bcc5de36"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/sites/default/files/languages/ar_iZjkhzJ_5hU9xB-DtACVIiJ5_lyahP_yGgCNy8IQqrA.js?sndmi0"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.3.6"></script>
+<script src="/core/misc/drupal.js?v=10.3.6"></script>
+<script src="/core/misc/drupal.init.js?v=10.3.6"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/pre_chosen.js?v=1.x"></script>
+
+      <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-PNFPGG3');</script>
+      <!-- End Google Tag Manager -->
+  </head>
+  <body class="path-node page-node-type-disaster">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PNFPGG3"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+      <a href="#main-content" class="visually-hidden focusable skip-link">
+      تجاوز إلى المحتوى الرئيسي
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+  <div class="usa-banner">
+  <div class="usa-accordion">
+    <header class="usa-banner__header">
+      <div class="usa-banner__inner">
+        <div class="grid-col-auto usa-banner__header-flag-position">
+          <img class="usa-banner__header-flag" src="/profiles/femad8_gov/themes/fema_uswds/assets/img/us_flag_small.png" alt="U.S. flag"/>
+        </div>
+        <div class="grid-col-fill tablet:grid-col-auto usa-banner__header-text-position">
+          <p class="usa-banner__header-text">An official website of the United States government</p>
+          <p class="usa-banner__header-action" aria-hidden="true">Here’s how you know</p>
+        </div>
+        <button class="usa-accordion__button usa-banner__button"
+                aria-expanded="false" aria-controls="gov-banner">
+          <span class="usa-banner__button-text">Here’s how you know</span>
+        </button>
+        <div class="grid-col-fill usa-banner__dropdown-language-menu language-switcher-banner">
+          <div role="navigation" class="block block-language block-language-blocklanguage-interface">
+  
+    
+      
+
+<ul class="language-switcher-language-url usa-nav__primary usa-accordion">
+    <li class="usa-nav__primary-item  ">
+      <button class="usa-accordion__button usa-nav__link usa-current " aria-expanded="false"
+              aria-controls="menu-toggle-1674305ca88e54">
+            <span>
+              <img src="/profiles/femad8_gov/themes/fema_uswds/images/world-icon.png" alt="world globe">
+            </span>
+        <span class="language-block-language-text">اللغات</span>
+      </button>
+      <ul id="menu-toggle-1674305ca88e54" class="usa-nav__submenu hide-on-load "><li class="language-switcher-language-url usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/disaster/4806" class="language-link language-en" hreflang="en" data-drupal-link-system-path="node/682169">English</a></li><li class="language-switcher-language-url usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/es/disaster/4806" class="language-link language-es" hreflang="es" data-drupal-link-system-path="node/682169">Español</a></li><li class="language-switcher-language-url usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/fr/node/682169" class="language-link language-fr" hreflang="fr" data-drupal-link-system-path="node/682169">Français</a></li><li class="language-switcher-language-url usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/ht/node/682169" class="language-link language-ht" hreflang="ht" data-drupal-link-system-path="node/682169">Kreyòl</a></li><li class="language-switcher-language-url usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/vi/node/682169" class="language-link language-vi" hreflang="vi" data-drupal-link-system-path="node/682169">Tiếng Việt</a></li><li class="language-switcher-language-url usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/zh-hans/node/682169" class="language-link language-zh-hans" hreflang="zh-hans" data-drupal-link-system-path="node/682169">简体中文</a></li><li class="language-switcher-language-url usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/ko/node/682169" class="language-link language-ko" hreflang="ko" data-drupal-link-system-path="node/682169">한국어</a></li></ul>
+    </li>
+  </ul>
+  </div>
+
+        </div>
+      </div>
+    </header>
+    <div class="usa-banner__content usa-accordion__content hide-on-load" id="gov-banner">
+      <div class="grid-row grid-gap-lg">
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img class="usa-banner__icon usa-media-block__img" src="/profiles/femad8_gov/themes/fema_uswds/assets/img/icon-dot-gov.svg" alt="Dot gov">
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Official websites use .gov</strong>
+            </p>
+            <p>
+              A <strong>.gov</strong> website belongs to an official government organization in the United States.
+            </p>
+          </div>
+        </div>
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img class="usa-banner__icon usa-media-block__img" src="/profiles/femad8_gov/themes/fema_uswds/assets/img/icon-https.svg" alt="Https">
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Secure .gov websites use HTTPS</strong>
+            </p>
+            <p>
+              A <strong>lock</strong> (
+<span class="icon-lock"><svg xmlns="http://www.w3.org/2000/svg" width="52" height="64" viewBox="0 0 52 64" class="usa-banner__lock-image" role="img" aria-labelledby="banner-lock-title banner-lock-description"><title id="banner-lock-title">Lock</title><desc id="banner-lock-description">A locked padlock</desc><path fill="#000000" fill-rule="evenodd" d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"/></svg></span>
+) or <strong>https://</strong> means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+              .
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="usa-overlay"></div>
+
+<header class="usa-header usa-header--extended" role="banner">
+      <div class="usa-navbar">
+          <div class="header-row-container">
+          <div class="header-wrapper">
+            <div class="grid-container">
+            
+                <div class="usa-logo" id="logo">
+
+    <a class="logo-img" href="/ar" accesskey="1" title="FEMA logo" aria-label="Home">
+    <img src="/profiles/femad8_gov/themes/fema_uswds/images/fema-logo-blue.svg" alt="FEMA Logo" />
+  </a>
+    
+</div>
+<div id="block-csshotfix" class="block block-block-content block-block-content50de9bbe-238b-4bc2-8804-1b7def9cb0c8">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><style type="text/css">
+
+.page-node-type-filterable-node h2 {
+display:none;
+}
+
+.profile-details {
+border: none !important;
+}
+
+.profile-img {
+display: none !important;
+}
+
+.profile-container .profile-details .profile-text {
+margin: 0 !important;
+align-self: start !important;
+padding: 0 !important;
+}
+
+.storytelling-minis .feature_mini .feature_mini_blocks .fema-heading h3 {
+font-size: 1em !important;
+}
+
+.has-large-font-size {
+line-height: 3.2em;
+}
+
+a.visually-hidden.skip-link {
+min-height: 44px !important;
+min-width: 44px !important;
+}
+
+.usa-banner__header-text, p.usa-banner__header-text (
+line-height: 1.5 !important;
+)
+/************ MEDIA LIBRARY SEARCH **************/
+.emerald_medialibrary_advanced_search .usa-form-group .chosen-container,
+.emerald_medialibrary_advanced_search .usa-form-group select {
+    width: auto !important;
+}
+
+.emerald_medialibrary_advanced_search #edit-advanced-search-content {
+
+}
+
+.emerald-medialibrary-advanced-search .usa-form-group {
+    margin-top: 0rem;
+    width: auto;
+    display: inline-block;
+    margin-right: 1rem;
+}
+
+.emerald_medialibrary_advanced_search .fieldset-wrapper {
+    display:flex;
+}
+.emerald-medialibrary-advanced-search ul.usa-accordion h2 {
+  margin-top:0px;
+        margin-bottom:0px;
+        font-size: inherit;
+}
+.emerald-medialibrary-advanced-search ul.usa-accordion h2 hr {
+        display:none;
+}
+
+.emerald-medialibrary-advanced-search legend.usa-legend .fieldset-legend h3 {
+     margin-bottom:0px;
+     margin-top: 20px;
+}
+.emerald-medialibrary-advanced-search .form-item-search-terms {
+    width: 400px;
+    display: inline-block;
+}
+.emerald-medialibrary-advanced-search .emerald-browse-submit, 
+.emerald-medialibrary-advanced-search .form-submit.usa-button {
+    padding: .75rem 1.25rem;
+}
+
+.emerald_medialibrary_advanced_search .form-item-album-name select {
+    width: 300px;
+}
+
+.emerald_medialibrary_advanced_search .form-item-fema-regions {
+
+}
+/************ END **************/
+
+
+/************ MEDIA COLLECTIONS SEARCH **************/
+
+.emerald_medialibrary_collections_search .usa-form-group .chosen-container,
+.emerald_medialibrary_collections_search .usa-form-group select {
+    width: auto !important;
+}
+
+.emerald_medialibrary_collections_search #edit-collections-search-content {
+
+}
+
+.emerald-medialibrary-collections-search .usa-form-group {
+    margin-top: 0rem;
+    width: auto;
+    display: inline-block;
+    margin-right: 1rem;
+}
+
+.emerald_medialibrary_collections_search .fieldset-wrapper {
+    display:flex;
+}
+.emerald-medialibrary-collections-search ul.usa-accordion h2 {
+        margin-top:0px;
+        margin-bottom:0px;
+        font-size: inherit;
+}
+.emerald-medialibrary-collections-search ul.usa-accordion h2 hr {
+        display:none;
+}
+
+.emerald-medialibrary-collections-search legend.usa-legend .fieldset-legend h3 {
+     margin-bottom:0px;
+     margin-top: 20px;
+}
+.emerald-medialibrary-collections-search .form-item-search-terms {
+    width: 400px;
+    display: inline-block;
+}
+.emerald-medialibrary-collections-search .emerald-browse-submit, 
+.emerald-medialibrary-collections-search .form-submit.usa-button {
+    padding: .75rem 1.25rem;
+}
+
+.emerald_medialibrary_collections_search .form-item-album-name select {
+    width: 300px;
+}
+
+.emerald_medialibrary_collections_search .form-item-fema-regions {
+
+}
+
+#emerald-medialibrary-collections-search .usa-accordion__button {
+    padding: 1rem 3.5rem 1rem 1.25rem;
+}
+#emerald-medialibrary-collections-search #edit-filters {
+   margin-top:0px;
+   margin-bottom:0px;
+}
+/************ END **************/
+
+/************ MEDIA COLLECTION HEADER **************/
+body.path-fema-media-library .emerald-container .grid-container {
+  padding-top:2rem;
+  padding-bottom:2rem;
+  margin-bottom:0.5rem !important;
+}
+
+body.path-fema-media-library .emerald-container .emerald-collection-page .usa-hero-callout-container .usa-hero__callout {
+background: rgba(6,6,6,0.8) !important;
+}
+
+body.path-fema-media-library .emerald-container .usa-hero__heading {
+    font-family: Merriweather Web, Georgia, Cambria, Times New Roman, Times, serif !important;
+    font-size: 1.95rem !important;
+    line-height: 1.2 !important;
+    font-weight: 700 !important;
+    color: #fff !important;
+}
+
+body.path-fema-media-library .emerald-container .usa-hero__callout p {
+    font-size: 1.06rem;
+}
+/************ END **************/
+</style></div>
+      
+  </div>
+<div id="block-fema-uswds-applyforassistancemenulink-2" class="block block-block-content block-block-contenta8a31980-478a-4fde-b733-02786b2a8516">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><a class="header-apply-link" target="_blank" href="https://www.disasterassistance.gov">Apply for Assistance</a></div>
+      
+  </div>
+
+
+                <button class="usa-menu-btn">
+                  <span class="sr-only">Toggle Menu  </span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+            </div>
+         </div>
+    </div>
+
+    </div>
+
+    <nav class="usa-nav" role="navigation" aria-label="main navigation">
+      <button class="usa-nav__close">
+        <img src="/profiles/femad8_gov/themes/fema_uswds/images/close-blue-60v-alt.svg" alt="close"/>
+      </button>
+            <div class="usa-nav__inner">
+        
+                    <div class="region region-primary-menu">
+    
+
+              <ul class="usa-nav__primary usa-accordion">
+      
+              
+                <li class="usa-nav__primary-item ">
+                                                                                                                                                                                                                                                                                                  <button class="usa-accordion__button usa-nav__link usa-current-button" aria-expanded="false" aria-controls="megamenu-1">
+                      <span>Disasters &amp; Assistance</span>
+                    </button>
+                  
+                                                      <ul id="megamenu-1" class="usa-nav__submenu usa-megamenu hide-on-load">
+                      <div class="grid-row grid-gap-4">
+              <div class="usa-col">
+                <ul class="usa-nav__submenu-list">
+                
+                
+              
+              
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ar/node/575622">
+                        <span>Current Disasters</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/686574" >
+                      <span>Alaska Flooding</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/684984" >
+                      <span>Connecticut Severe Storm</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/682169" >
+                      <span>Florida Hurricane Debby</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/686341" >
+                      <span>Florida Hurricane Milton</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/685256" >
+                      <span>Georgia Tropical Storm Debby</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/disaster/current/hurricane-helene" >
+                      <span>Hurricane Helene</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/disaster/4819" >
+                      <span>Illinois Severe Storms</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/679048" >
+                      <span>Iowa Severe Storms (June)</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/684771" >
+                      <span>Louisiana Hurricane Francine</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/687544" >
+                      <span>New Mexico Severe Storms</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/678830" >
+                      <span>New Mexico Wildfires</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/684498" >
+                      <span>Pennsylvania Tropical Storm Debby</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/disaster/4798" >
+                      <span>Texas Hurricane Beryl</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/683197" >
+                      <span>Vermont Severe Storms (July 9-11)</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/685400" >
+                      <span>Vermont Severe Storms (July 29-31)</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/622080" >
+                      <span>Wildfire Actions</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/685273" >
+                      <span>Yakama Nation Wildfires</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/disaster/declarations" >
+                      <span>All Disaster Declarations</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ar/assistance">
+                        <span>Assistance After a Disaster</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/687529" >
+                      <span>Businesses</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/assistance/public" >
+                      <span>Governments and Private Non-Profits</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/assistance/individual" >
+                      <span>المساعدة الفردية</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ar/disaster/recover">
+                        <span>Tools to Recover</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/disaster/recover/rumor-control" >
+                      <span>الشائعات المنتشرة المتعلقة بالكوارث</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/disaster/recover/multimedia-toolkit" >
+                      <span>مجموعة وسائط الكوارث المتعددة</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/disaster/recover/faq" >
+                      <span>الأسئلة الشائعة عن الكوارث</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/disaster/recover/languages" >
+                      <span>الوكالة الفيدرالية لإدارة الطوارئ (FEMA) بلغتك</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/disaster/recover/save-family-treasures" >
+                      <span>نقذ ممتلكات عائلتك الثمينة</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/disaster/recover/volunteer-donate" >
+                      <span>التطوع والتبرع</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ar/node/471154">
+                        <span>General Disaster Information</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/locations" >
+                      <span>Search Your Location</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/378213" >
+                      <span>How a Disaster Gets Declared</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/670194" >
+                      <span>Declarations for Tribal Nations</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/508150" >
+                      <span>Disaster Authorities</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/369987" >
+                      <span>Historic Disasters</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                                            </ul>
+          </div>
+        </div>
+    </ul>
+  
+
+
+                  
+                
+                <li class="usa-nav__primary-item ">
+                                                                                                                                                                                                          <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="megamenu-2">
+                      <span>Grants</span>
+                    </button>
+                  
+                                                      <ul id="megamenu-2" class="usa-nav__submenu usa-megamenu hide-on-load">
+                      <div class="grid-row grid-gap-4">
+              <div class="usa-col">
+                <ul class="usa-nav__submenu-list">
+                
+                
+              
+              
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ar/grants">
+                        <span>FEMA Grants</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/629987" >
+                      <span>Preparedness Grants</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/grants/mitigation" >
+                      <span>Hazard Mitigation Assistance Grants</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/grants#resilience" >
+                      <span>Resilience Grants</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/658499" >
+                      <span>Continuing Training Grants Program</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/618343" >
+                      <span>Emergency Food and Shelter Program</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/657513" >
+                      <span>Shelter and Services Program</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ar/node/636201">
+                        <span>Policy &amp; Guidance</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/grants/procurement" >
+                      <span>Procurement &amp; Contracting</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/636158" >
+                      <span>&quot;Buy America&quot; Preference</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/663733" >
+                      <span>Bipartisan Infrastructure Law</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/653558" >
+                      <span>Low-Carbon Goals</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/608225" >
+                      <span>2 CFR Policy Updates</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ar/node/471301">
+                        <span>Tools</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/grants/tools/authorized-equipment-list" >
+                      <span>Authorized Equipment List</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/366486" >
+                      <span>Benefit-Cost Analysis</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/grants/guidance-tools/environmental-historic" >
+                      <span>Environmental &amp; Historic Preservation Guidance</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/649844" >
+                      <span>FEMA Grants Outcomes (FEMA GO)</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/645604" >
+                      <span>Grants Management Technical Assistance</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/non-disaster-grants-management-system" >
+                      <span>Non-Disaster Grants Management System</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                                            </ul>
+          </div>
+        </div>
+    </ul>
+  
+
+
+                  
+                
+                <li class="usa-nav__primary-item ">
+                                                                                                                                                                                                                                                    <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="megamenu-3">
+                      <span>Floods &amp; Maps</span>
+                    </button>
+                  
+                                                      <ul id="megamenu-3" class="usa-nav__submenu usa-megamenu hide-on-load">
+                      <div class="grid-row grid-gap-4">
+              <div class="usa-col">
+                <ul class="usa-nav__submenu-list">
+                
+                
+              
+              
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ar/flood-insurance">
+                        <span>Flood Insurance</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/flood-insurance/find-form" >
+                      <span>Find an Insurance Form</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/flood-insurance/work-with-nfip" >
+                      <span>Work with National Flood Insurance</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/467888" >
+                      <span>NFIP’s Pricing Approach</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/flood-insurance/outreach-resources" >
+                      <span>Insurance Outreach Publications</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/flood-insurance/rules-legislation" >
+                      <span>Rules and Legislation</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/flood-insurance/advocate" >
+                      <span>Flood Insurance Advocate</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ar/floodplain-management">
+                        <span>Floodplain Management</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/floodplain-management/manage-risk" >
+                      <span>Manage Floodplain Risk</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/floodplain-management/financial-help" >
+                      <span>Get Financial Help</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/633197" >
+                      <span>Community Assistance Program for States</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/483472" >
+                      <span>Community Rating System</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/476119" >
+                      <span>Floodplains &amp; Wildlife Conservation</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/floodplain-management/intergovernmental" >
+                      <span>Intergovernmental Collaboration</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/678815" >
+                      <span>Training</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ar/flood-maps">
+                        <span>Flood Maps</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/501308" >
+                      <span>Flood Data Viewers &amp; Geospatial Data</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/flood-maps/change-your-flood-zone" >
+                      <span>Change Your Flood Zone Designation</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/flood-maps/tools-resources/risk-map" >
+                      <span>Risk MAP</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/flood-maps/products-tools" >
+                      <span>Products and Tools</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/368493" >
+                      <span>Guidance &amp; Reports</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/609752" >
+                      <span>Cooperating Technical Partners</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ar/node/637968">
+                        <span>Know Your Risk</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/637969" >
+                      <span>Homeowners, Renters or Business Owners</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/637970" >
+                      <span>Community Officials</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/637971" >
+                      <span>Engineers, Surveyors or Architects</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/637972" >
+                      <span>Real Estate, Lending or Insurance Professionals</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/637973" >
+                      <span>State, Local, Tribal or Territorial Governments</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                                            </ul>
+          </div>
+        </div>
+    </ul>
+  
+
+
+                  
+                
+                <li class="usa-nav__primary-item ">
+                                                                                                                                                                                                                                                    <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="megamenu-4">
+                      <span>Emergency Management</span>
+                    </button>
+                  
+                                                      <ul id="megamenu-4" class="usa-nav__submenu usa-megamenu hide-on-load">
+                      <div class="grid-row grid-gap-4">
+              <div class="usa-col">
+                <ul class="usa-nav__submenu-list">
+                
+                
+              
+              
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ar/emergency-managers/national-preparedness">
+                        <span>National Preparedness</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/emergency-managers/national-preparedness/training" >
+                      <span>Training &amp; Education</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/emergency-managers/nims" >
+                      <span>National Incident Management System (NIMS)</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/emergency-managers/national-preparedness/frameworks" >
+                      <span>National Planning Frameworks</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/emergency-managers/national-preparedness/goal" >
+                      <span>National Preparedness Goal</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/emergency-managers/national-preparedness/continuity" >
+                      <span>Continuity Resource Toolkit</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/622937" >
+                      <span>Equity</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/emergency-managers/national-preparedness/exercises" >
+                      <span>Exercises</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ar/emergency-managers/risk-management">
+                        <span>Risk Management</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/emergency-managers/risk-management/hazard-mitigation-planning" >
+                      <span>Hazard Mitigation Planning</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/emergency-managers/risk-management/building-science" >
+                      <span>Building Science</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/emergency-managers/risk-management/earthquake" >
+                      <span>Earthquake Risk</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/emergency-managers/risk-management/dam-safety" >
+                      <span>Dam Safety</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/633191" >
+                      <span>Hurricane, Wind &amp; Water Surge Hazards</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/467840" >
+                      <span>Hazardous Response Capabilities</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/685096" >
+                      <span>Climate Resilience</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ar/emergency-managers/practitioners">
+                        <span>Tools for Practitioners</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/emergency-managers/practitioners/integrated-public-alert-warning-system" >
+                      <span>Integrated Public Alert &amp; Warning System (IPAWS)</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/emergency-managers/national-preparedness/plan" >
+                      <span>Planning Guides</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/emergency-managers/practitioners/lifelines" >
+                      <span>Community Lifelines</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/emergency-managers/practitioners/environmental-historic" >
+                      <span>Environmental Planning &amp; Historic Preservation</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/646166" >
+                      <span>Recovery Resources</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/emergency-managers/practitioners/case-study-library" >
+                      <span>Case Study Library</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/608857" >
+                      <span>PrepTalks</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/678503" >
+                      <span>Strategic Foresight 2050</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ar/emergency-managers/individuals-communities">
+                        <span>Individuals &amp; Communities</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/637683" >
+                      <span>Preparedness Activities, Research &amp; Webinars</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/635501" >
+                      <span>Faith-Based &amp; Volunteer Partnership Resources</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/childrens-role-emergency-planning" >
+                      <span>Youth &amp; Emergency Planning</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/640385" >
+                      <span>Community Emergency Response Team (CERT)</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/626206" >
+                      <span>Activities to Reduce Risk for Your Home</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                                            </ul>
+          </div>
+        </div>
+    </ul>
+  
+
+
+                  
+                
+                <li class="usa-nav__primary-item ">
+                                                                                                                                                                                                                                                    <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="megamenu-5">
+                      <span>About</span>
+                    </button>
+                  
+                                                      <ul id="megamenu-5" class="usa-nav__submenu usa-megamenu hide-on-load">
+                      <div class="grid-row grid-gap-4">
+              <div class="usa-col">
+                <ul class="usa-nav__submenu-list">
+                
+                
+              
+              
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ar/about">
+                        <span>About Us</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/about/how-fema-works" >
+                      <span>How FEMA Works</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/629169" >
+                      <span>Strategic Plan</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/598800" >
+                      <span>Offices &amp; Leadership</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/about/organization/regions" >
+                      <span>Regions, States &amp; Territories</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/670203" >
+                      <span>Tribal Affairs</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/about/payment" >
+                      <span>How to Pay FEMA</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/about/history" >
+                      <span>History of FEMA</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/about/contact" >
+                      <span>Contact Us</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/676692" >
+                      <span>Your Civil Rights</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ar/media">
+                        <span>Newsroom</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/about/news-multimedia/blog" >
+                      <span>Blog</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/about/news-multimedia/events" >
+                      <span>الفعاليات</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/about/news-multimedia/fact-sheets" >
+                      <span>Fact Sheets</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/642900" >
+                      <span>FEMA Live</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/470470" >
+                      <span>Mobile Products</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/about/news-multimedia/newsletters" >
+                      <span>Newsletters</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/about/news-multimedia/press-releases" >
+                      <span>Press Releases</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/634317" >
+                      <span>Podcast</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/about/news-multimedia/social-media" >
+                      <span>Social Media</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/686266" >
+                      <span>Video Updates</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ar/about/reports-and-data">
+                        <span>Reports &amp; Data</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/about/reports-and-data/annual-reports" >
+                      <span>Annual Reports</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/about/reports-and-data/data-visualizations" >
+                      <span>Data Visualizations</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/about/reports-and-data/disaster-relief-fund-monthly-reports" >
+                      <span>Disaster Relief Fund Reports</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/about/reports-and-data/guidance" >
+                      <span>FEMA Guidance Documents</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/about/glossary" >
+                      <span>Glossary</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/about/reports-and-data/openfema" >
+                      <span>OpenFEMA</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/497395" >
+                      <span>Resilience Analysis &amp; Planning Tool</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ar/node/640360">
+                        <span>FEMA in Action</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/we-are-fema" >
+                      <span>We Are FEMA</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/655046" >
+                      <span>National Resilience Month</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/625541" >
+                      <span>9/11: We Remember and Honor</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                                            </ul>
+          </div>
+        </div>
+    </ul>
+  
+
+
+                  
+                
+                <li class="usa-nav__primary-item ">
+                                                                                                                                                                                                          <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="megamenu-6">
+                      <span>Work With Us</span>
+                    </button>
+                  
+                                                      <ul id="megamenu-6" class="usa-nav__submenu usa-megamenu hide-on-load">
+                      <div class="grid-row grid-gap-4">
+              <div class="usa-col">
+                <ul class="usa-nav__submenu-list">
+                
+                
+              
+              
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ar/careers">
+                        <span>Careers</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/367388" >
+                      <span>Benefits</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/367396" >
+                      <span>Career Paths</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/careers/apply" >
+                      <span>How to Apply</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/careers/recruitment-events" >
+                      <span>Recruitment Events</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/367344" >
+                      <span>FEMA Employee Resources</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ar/businesses-organizations">
+                        <span>Business and Organizations</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/business-industry/doing-business" >
+                      <span>Doing Business with FEMA</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/business-industry/national-business-emergency-operations-center" >
+                      <span>National Business Emergency Operations Center</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ar/node/543624">
+                        <span>Partnerships</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/666012" >
+                      <span>Community Disaster Resilience Zones</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/634890" >
+                      <span>Emergency Manager Exchange</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/543627" >
+                      <span>Federal Agency Mission Assignments</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/680385" >
+                      <span>Social Scientist Partnership</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ar/node/481105" >
+                      <span>Resilient Nation Partnership Network</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                                            </ul>
+          </div>
+        </div>
+    </ul>
+  
+
+
+                  
+                                                </ul>
+              
+
+
+
+
+<div id="block-fema-uswds-applyforassistancemenulink" class="block block-block-content block-block-contenta8a31980-478a-4fde-b733-02786b2a8516">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><a class="header-apply-link" target="_blank" href="https://www.disasterassistance.gov">Apply for Assistance</a></div>
+      
+  </div>
+<div id="block-mobileusasearch" class="block block-block-content block-block-content624eeb3f-c865-4864-9a90-a907cf42fe37">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="mobile-usa-search"/></div>
+      
+  </div>
+<div class="language-switcher-language-url block block-language block-language-blocklanguage-interface" id="block-languageswitcher" role="navigation">
+  
+    
+      
+
+<ul class="links usa-nav__primary usa-accordion">
+    <li class="usa-nav__primary-item  ">
+      <button class="usa-accordion__button usa-nav__link usa-current " aria-expanded="false"
+              aria-controls="menu-toggle-1674305ce15095">
+            <span>
+              <img src="/profiles/femad8_gov/themes/fema_uswds/images/world-icon.png" alt="world globe">
+            </span>
+        <span class="language-block-language-text">اللغات</span>
+      </button>
+      <ul id="menu-toggle-1674305ce15095" class="usa-nav__submenu hide-on-load "><li class="links usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/disaster/4806" class="language-link language-en" hreflang="en" data-drupal-link-system-path="node/682169">English</a></li><li class="links usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/es/disaster/4806" class="language-link language-es" hreflang="es" data-drupal-link-system-path="node/682169">Español</a></li><li class="links usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/fr/node/682169" class="language-link language-fr" hreflang="fr" data-drupal-link-system-path="node/682169">Français</a></li><li class="links usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/ht/node/682169" class="language-link language-ht" hreflang="ht" data-drupal-link-system-path="node/682169">Kreyòl</a></li><li class="links usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/vi/node/682169" class="language-link language-vi" hreflang="vi" data-drupal-link-system-path="node/682169">Tiếng Việt</a></li><li class="links usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/zh-hans/node/682169" class="language-link language-zh-hans" hreflang="zh-hans" data-drupal-link-system-path="node/682169">简体中文</a></li><li class="links usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/ko/node/682169" class="language-link language-ko" hreflang="ko" data-drupal-link-system-path="node/682169">한국어</a></li></ul>
+    </li>
+  </ul>
+  </div>
+
+  </div>
+
+        
+                  <div class="usa-nav__secondary">
+              <div class="region region-secondary-menu">
+    <div id="block-desktopusasearch" class="block block-block-content block-block-contentf73c1d55-3d47-49ea-bd6e-92bf46c00b9c">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="desktop-usa-search"/></div>
+      
+  </div>
+
+  </div>
+
+          </div>
+        
+              </div>
+          </nav>
+
+      
+</header>
+<div tabindex="-1" id="main-content"></div>
+
+  
+<!-- Archived content banner -->
+<main class="usa-section">
+  <div class="grid-row grid-gap">
+    <div class="grid-col-12">
+      
+
+      
+    </div>
+  </div>
+
+  <!-- Home page location search -->
+  
+
+  <div class="grid-row-container">
+
+    <!-- Super Hero (full-width hero) -->
+    
+    <!-- Location Pages (full-width hero) -->
+
+    
+    <div class="region-content-container">
+
+      <div class="grid-container">
+        <div class="grid-row">
+
+          <!-- Sidebar First  -->
+          <div class="sidebar-menu desktop:grid-col-3 match-title" role="navigation"
+               aria-label="section navigation">
+            
+                <div class="sidebar_first-container">
+          <aside class="sidebar_first-aside">
+            <div class="grid-container">
+                
+
+    
+            
+    <ul class="usa-sidenav menu_name-main  menu-level-0">
+                
+                                        
+                                                                                                                                                                                
+          
+                    
+                                          <li id="menu_link_content:631676e3-5551-439f-9cee-babef5e0a11b" class="usa-sidenav__item on-active-level usa-current-li  ">
+
+              
+                                  
+            
+    <ul class="usa-sidenav__sublist  menu-level-1">
+                
+                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+          
+                    
+                                          <li id="menu_link_content:da11fc1d-da4e-44fc-aeed-a299c3233b2d" class="usa-sidenav__item on-active-level usa-current-li  ">
+
+              
+                                  
+            
+    <ul class="usa-sidenav__sublist  menu-level-2">
+                
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                                          
+                                                                              <li id="menu_link_content:631676e3-5551-439f-9cee-babef5e0a11b" class="usa-sidenav__item usa-grandparent-li inactive">
+                  <a >
+                    <span>Disasters &amp; Assistance</span>
+                  </a>
+                </li>
+              
+              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                    
+
+              <li class="sidebar_menu_parent" aria-expanded="false" aria-controls="menu_link_content:da11fc1d-da4e-44fc-aeed-a299c3233b2d-parent menu_link_content:1bf68e72-2e70-4644-9085-4b9ab863dd35 menu_link_content:826d030b-a09e-483c-8e9e-2a873f3d6e24 menu_link_content:0f533869-d5d2-44fd-ba13-5a1015c2a9b9 menu_link_content:faa60328-5397-4351-8494-c4f9e3c418cf menu_link_content:d394d2be-79fb-4cee-b42b-c74d742f0ba8 menu_link_content:4cab40e0-5f7e-4672-8b21-603ada1b8cff menu_link_content:81a4cc71-0d46-46e1-8cbc-c63557f7bbc0 menu_link_content:28edd562-1b9c-4470-8711-e49dce37da97 menu_link_content:4a17e3af-5ac6-4f90-8f63-3f7a8bac5ddb menu_link_content:846a17b0-3da5-4625-b9de-ef38e1a5aec6 menu_link_content:705a571d-2c99-4041-948a-4f35137377b6 menu_link_content:98ffefad-8afd-45c8-8c8d-58efbe8f12b9 menu_link_content:99261324-d38a-4419-ab0c-77fa3a62cddb menu_link_content:a6ed3a62-d1a2-440d-bd6e-37690a47062b menu_link_content:dc0b888a-b0cd-42ce-bd97-6e991d29af3c menu_link_content:38115245-fe06-4538-af87-676ae48f7bbe menu_link_content:04e227a6-8d82-449c-9f91-b6425aa985c4 menu_link_content:6b594e6c-f1c7-4694-8b32-93ee47cbda3b menu_link_content:a803ab09-01ab-4353-ad9f-7b3f11dbd28c menu_link_content:5ea786f5-17ea-43f7-bf8c-87ebffea237d menu_link_content:e895e6ac-d82d-40a9-925e-5b829d5137d4">Current Disasters</li>
+                          <li id="menu_link_content:da11fc1d-da4e-44fc-aeed-a299c3233b2d-parent" class="usa-sidenav__item usa-sibling-li usa-parent-li on-active-level parent-sibling ">
+                <a  href="/ar/node/575622" >
+                  <span>Current Disasters</span>
+                </a>
+              </li>
+
+                      <li id="menu_link_content:1bf68e72-2e70-4644-9085-4b9ab863dd35" class="usa-sidenav__item on-active-level usa-current-li indented ">
+
+                              <a  href="/ar/node/682169"  class="usa-current">
+                  <span>Florida Hurricane Debby</span>
+                </a>
+              
+              
+            </li>
+                  
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                                    <li id="menu_link_content:826d030b-a09e-483c-8e9e-2a873f3d6e24" class="usa-sidenav__item usa-sibling-li on-active-level indented">
+                <a  href="/ar/node/686574" >
+                  <span>Alaska Flooding</span>
+                </a>
+              </li>
+                                                <li id="menu_link_content:0f533869-d5d2-44fd-ba13-5a1015c2a9b9" class="usa-sidenav__item usa-sibling-li on-active-level indented">
+                <a  href="/ar/node/684984" >
+                  <span>Connecticut Severe Storm</span>
+                </a>
+              </li>
+                                                                      <li id="menu_link_content:faa60328-5397-4351-8494-c4f9e3c418cf" class="usa-sidenav__item usa-sibling-li on-active-level indented">
+                <a  href="/ar/node/686341" >
+                  <span>Florida Hurricane Milton</span>
+                </a>
+              </li>
+                                                <li id="menu_link_content:d394d2be-79fb-4cee-b42b-c74d742f0ba8" class="usa-sidenav__item usa-sibling-li on-active-level indented">
+                <a  href="/ar/node/685256" >
+                  <span>Georgia Tropical Storm Debby</span>
+                </a>
+              </li>
+                                                <li id="menu_link_content:4cab40e0-5f7e-4672-8b21-603ada1b8cff" class="usa-sidenav__item usa-sibling-li on-active-level indented">
+                <a  href="/ar/disaster/current/hurricane-helene" >
+                  <span>Hurricane Helene</span>
+                </a>
+              </li>
+                                                <li id="menu_link_content:81a4cc71-0d46-46e1-8cbc-c63557f7bbc0" class="usa-sidenav__item usa-sibling-li on-active-level indented">
+                <a  href="/ar/disaster/4819" >
+                  <span>Illinois Severe Storms</span>
+                </a>
+              </li>
+                                                <li id="menu_link_content:28edd562-1b9c-4470-8711-e49dce37da97" class="usa-sidenav__item usa-sibling-li on-active-level indented">
+                <a  href="/ar/node/679048" >
+                  <span>Iowa Severe Storms (June)</span>
+                </a>
+              </li>
+                                                <li id="menu_link_content:4a17e3af-5ac6-4f90-8f63-3f7a8bac5ddb" class="usa-sidenav__item usa-sibling-li on-active-level indented">
+                <a  href="/ar/node/684771" >
+                  <span>Louisiana Hurricane Francine</span>
+                </a>
+              </li>
+                                                <li id="menu_link_content:846a17b0-3da5-4625-b9de-ef38e1a5aec6" class="usa-sidenav__item usa-sibling-li on-active-level indented">
+                <a  href="/ar/node/687544" >
+                  <span>New Mexico Severe Storms</span>
+                </a>
+              </li>
+                                                <li id="menu_link_content:705a571d-2c99-4041-948a-4f35137377b6" class="usa-sidenav__item usa-sibling-li on-active-level indented">
+                <a  href="/ar/node/678830" >
+                  <span>New Mexico Wildfires</span>
+                </a>
+              </li>
+                                                <li id="menu_link_content:98ffefad-8afd-45c8-8c8d-58efbe8f12b9" class="usa-sidenav__item usa-sibling-li on-active-level indented">
+                <a  href="/ar/node/684498" >
+                  <span>Pennsylvania Tropical Storm Debby</span>
+                </a>
+              </li>
+                                                <li id="menu_link_content:99261324-d38a-4419-ab0c-77fa3a62cddb" class="usa-sidenav__item usa-sibling-li on-active-level indented">
+                <a  href="/ar/disaster/4798" >
+                  <span>Texas Hurricane Beryl</span>
+                </a>
+              </li>
+                                                <li id="menu_link_content:a6ed3a62-d1a2-440d-bd6e-37690a47062b" class="usa-sidenav__item usa-sibling-li on-active-level indented">
+                <a  href="/ar/node/683197" >
+                  <span>Vermont Severe Storms (July 9-11)</span>
+                </a>
+              </li>
+                                                <li id="menu_link_content:dc0b888a-b0cd-42ce-bd97-6e991d29af3c" class="usa-sidenav__item usa-sibling-li on-active-level indented">
+                <a  href="/ar/node/685400" >
+                  <span>Vermont Severe Storms (July 29-31)</span>
+                </a>
+              </li>
+                                                <li id="menu_link_content:38115245-fe06-4538-af87-676ae48f7bbe" class="usa-sidenav__item usa-sibling-li on-active-level indented">
+                <a  href="/ar/node/622080" >
+                  <span>Wildfire Actions</span>
+                </a>
+              </li>
+                                                <li id="menu_link_content:04e227a6-8d82-449c-9f91-b6425aa985c4" class="usa-sidenav__item usa-sibling-li on-active-level indented">
+                <a  href="/ar/node/685273" >
+                  <span>Yakama Nation Wildfires</span>
+                </a>
+              </li>
+                                                <li id="menu_link_content:6b594e6c-f1c7-4694-8b32-93ee47cbda3b" class="usa-sidenav__item usa-sibling-li on-active-level indented">
+                <a  href="/ar/disaster/declarations" >
+                  <span>All Disaster Declarations</span>
+                </a>
+              </li>
+                              
+                                                                                      <li id="menu_link_content:a803ab09-01ab-4353-ad9f-7b3f11dbd28c" class="usa-sidenav__item usa-sibling-li on-active-level parent-sibling">
+                  <a  href="/ar/assistance" >
+                    <span>Assistance After a Disaster</span>
+                  </a>
+                </li>
+                                                        <li id="menu_link_content:5ea786f5-17ea-43f7-bf8c-87ebffea237d" class="usa-sidenav__item usa-sibling-li on-active-level parent-sibling">
+                  <a  href="/ar/disaster/recover" >
+                    <span>Tools to Recover</span>
+                  </a>
+                </li>
+                                                        <li id="menu_link_content:e895e6ac-d82d-40a9-925e-5b829d5137d4" class="usa-sidenav__item usa-sibling-li on-active-level parent-sibling">
+                  <a  href="/ar/node/471154" >
+                    <span>General Disaster Information</span>
+                  </a>
+                </li>
+                                                  </ul>
+
+              
+            </li>
+                  
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                
+              </ul>
+
+              
+            </li>
+                  
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                
+                                </ul>
+
+
+
+
+             </div>
+          </aside>
+    </div>
+
+
+                      </div>
+          <div class="desktop:grid-col-9" role="main">
+
+            <!-- Hero (within content area) -->
+            
+
+                        <div class="region-content">
+            <div class="grid-container">
+                <div data-drupal-messages-fallback class="hidden"></div><div role="contentinfo" aria-label="رسالة التحذير">
+
+    <div class="fema-callout fcf6f6 alert language-warning warning"><img src="/profiles/femad8_gov/themes/fema_uswds/images/alert.svg" alt="alert - warning">
+  
+                      <p class="call-out-text">
+          This page has not been translated into العربية. Visit the <a href='/ar/disaster/recover/languages'>العربية page</a> for resources in that language.
+        </p>
+              
+    
+  </div>
+</div>
+<div id="block-fema-uswds-pagetitle-2" class="block block-core block-page-title-block">
+  
+    
+      
+  <h1 class="uswds-page-title page-title">Florida Hurricane Debby</h1>
+
+
+  </div>
+<div class="subtitle">DR-4806-FL</div>
+<div id="block-fema-uswds-mainpagecontent-2" class="block block-system block-system-main-block">
+  
+    
+      
+  <div class='incident-summary-container'>
+    <div class='incident-image-container'>
+      <div class='incident-image'>
+                                
+        
+                          <img class="region-image" src="https://www.fema.gov/sites/default/files/2020-02/fl%20%281%29.svg" alt="Florida"/>
+        
+        
+      </div>
+      <div class='incident-incident'>
+                                              <p>
+              <span>فترة الحادثة:</span>
+              أغسطس 1, 2024
+              -
+              أغسطس 27, 2024
+            </p>
+                                    <p>
+            <span>تاريخ التبليغ عن الكارثة: :</span>
+            أغسطس 10, 2024
+          </p>
+              </div>
+    </div>
+
+    <div class="incident-quick-links">
+      <p>روابط سريعة </p>
+      <ul>
+        <li>المصادر الخاصة بالترميم والاستعادة 
+          <span>
+            <a href="#local-resources">على صعيد الولاية ومحلياً </a>
+          </span>
+          |
+          <span>
+            <a href='/disaster/national-referral-list'> على الصعيد الوطني</a></span></li>
+        <li>للتواصل الاجتماعي
+          <span>
+             <a href='/ar/about/news-multimedia/social-media'>وسائل التواصل الاجتماعي</a>
+          </span>
+          |
+          <span>
+            <a href='/ar/about/news-multimedia/mobile-app-text-messages'> تطبيقات الهاتف الجوال والرسائل النصية</a>
+          </span>
+
+        </li>
+        <li>خدمات الاستشارة متوفرة 24 ساعة على مدى 7 أيام 
+          <span>
+            <a target='_blank' href='https://www.samhsa.gov/find-help/disaster-distress-helpline'> الخط الهاتفي للمساعدة في أوقات الكوارث</a></span></li>
+      </ul>
+    </div>
+  </div>
+
+        <div class='incident-view-page-in'>
+      <div>
+        <img src="/profiles/femad8_gov/themes/fema_uswds/images/world-icon-black.png" alt="world globe">
+        <ul>
+                                                <li><a href="/disaster/4806">English</a></li>
+                                                                        <li><a href="/es/disaster/4806">Español</a></li>
+                                        </ul>
+      </div>
+    </div>
+
+  
+  <div class='incident-on-this-page'>
+    <p class='incident-on-this-page-item-header'>
+      على هذه الصفحة
+    </p>
+
+    
+                  <p class='incident-on-this-page-item'>
+          <a href="#inactive-ia-status">مغلق الآن: فترة تقديم طلب بشأن الحصول على مساعدة الكوارث</a>
+        </p>
+          
+    
+          <p class='incident-on-this-page-item'>
+        <a href="#block-views-block-disaster-recovery-centers-block-3">قائمة مراكز التعافي من الكوارث </a>
+      </p>
+    
+    <p class='incident-on-this-page-item'>
+      <a href="#local-resources">الموارد المحلية </a>
+    </p>
+
+                  <p class='incident-on-this-page-item'>
+          <a href="#how-to-help">كيفية المساعدة </a>
+        </p>
+          
+    <p class='incident-on-this-page-item'>
+      <a href="#funding-obligations">التزامات التمويل </a>
+    </p>
+  </div>
+  <div class="more-about-disaster">
+    <p class='more-about-disaster-item-header'>
+      لمعرفة المزيد حول هذه الكارثة 
+    </p>
+    <div>
+               <a href="/ar/disaster/4806/designated-areas">
+              <span class="more-about-disaster-link-header">المناطق المحددة 
+</span>
+        <span>مساعدة فردية | مساعدة عامة | كيف يتم الاعلان عن الكارثة</span>
+      </a>
+    </div>
+    <div>
+               <a href="/ar/disaster/4806/news-media">
+              <span class="more-about-disaster-link-header">الأخبار والإعلام
+</span>
+        <span>الاحداث  | البيانات الصحفية وصحائف الوقائع  | ملفات PDFs والرسومات والوسائط المتعددة </span>
+      </a>
+    </div>
+    <div>
+               <a href="/ar/disaster/4806/notices">
+              <span class="more-about-disaster-link-header">التقارير والإشعارات</span>
+        <span>ملاحظات السجل الفيدرالي للكوارث  | تقديرات الاضرار الأولية</span>
+      </a>
+    </div>
+  </div>
+
+            <a id="inactive-ia-status"></a>
+                                              <div class="views-element-container"><div class="view view-help-for-individuals-and-families-after-a-disaster-post-32224 view-id-help_for_individuals_and_families_after_a_disaster_post_32224 view-display-id-block_4 js-view-dom-id-68d1456dd71b18f2ea7989969f875e0d7e3e6d79cd17c171e56c667cee0b7741">
+  
+    
+      
+  
+          </div>
+</div>
+
+                              
+  
+  <a id="local-resources"></a>
+  <div class="local-resources-section">
+    <h2>الموارد المحلية </h2>
+    <div class="grid-row grid-gap">
+      <div class="tablet:grid-col">
+        <h3>Local Information</h3>
+        <div class="views-element-container block block-views block-views-blockrelated-links-block-2" id="block-views-block-related-links-block-2">
+  
+    
+      <div><div class="view view-related-links view-id-related_links view-display-id-block_2 js-view-dom-id-7b23eee27d51c2f19d80bceaba0533d713369b667dcebec259c443074cd46462">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-related-links"><div class="field-content"><a href="https://twitter.com/FEMAregion3">@FEMARegion3 (X)</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-field-related-links"><div class="field-content"><a href="https://twitter.com/FEMAregion3">@FEMARegion3 (X)</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-field-related-links"><div class="field-content"><a href="https://twitter.com/FEMAregion3">@FEMARegion3 (X)</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-field-related-links"><div class="field-content"><a href="https://twitter.com/FEMAregion3">@FEMARegion3 (X)</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-field-related-links"><div class="field-content"><a href="https://twitter.com/FEMAregion3">@FEMARegion3 (X)</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-field-related-links"><div class="field-content"><a href="https://twitter.com/FEMAregion3">@FEMARegion3 (X)</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-field-related-links"><div class="field-content"><a href="https://twitter.com/FEMAregion4">@FEMARegion4 (X)</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-field-related-links"><div class="field-content"><a href="https://twitter.com/FEMAregion4">@FEMARegion4 (X)</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-field-related-links"><div class="field-content"><a href="https://twitter.com/FEMAregion4">@FEMARegion4 (X)</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-field-related-links"><div class="field-content"><a href="https://twitter.com/FEMAregion4">@FEMARegion4 (X)</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+
+      </div>
+      <div class="tablet:grid-col">
+        <h3>وسائل الاعلام المحلية </h3>
+        <div class='view-content'>
+                  <p>
+            يرجى زيارة  صفحة<a href='/ar/disaster/4806/news-media'>الأخبار والإعلام</a> للاطلاع على الأحداث وصحائف الوقائع والبيانات الصحفية وموارد الوسائط المتعددة الأخرى. 
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+  
+            <a id="how-to-help"></a>
+      <div id="block-howtohelp" class="block block-block-content block-block-contentf4a0d430-3d82-43b6-9272-8be9717dd451">
+  
+      <h2>كيف يمكنك المساعدة </h2>
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h3>التطوع والتبرع</h3><p>&nbsp;</p><p>التعافي قد يستغرق سنوات عديدة بعد وقوع الكارثة. هناك العديد من الطرق للمساعدة مثل التبرع بالمال أو بالأشياء المطلوبة أو بوقتك.&nbsp;<a href="/ar/disaster/recover/volunteer-donate"> تعرف على المزيد حول كيفية مساعدة المحتاجين </a>.</p><p>لا تنشر مواردك بنفسك في مناطق الكوارث. <a href="https://www.nvoad.org/volunteer/">التعرف على المنظمات الموثوقة</a> في المناطق المتضررة حيث الحاجة إلى المتطوعين. العمل مع منظمة قائمة للتأكد من أن لديك عناصر السلامة المناسبة والتدريب والمهارات اللازمة للاستجابة.</p><p><a href="/emergency-managers/individuals-communities/faith-volunteer/voluntary-organizations">جهات اتصال الوكالة التطوعية (VALs) التابعة للوكالة الفيدرالية لإدارة الطوارئ (FEMA)&nbsp;</a> تبني العلاقات وتنسق الجهود مع المنظمات التطوعية والدينية والمجتمعية النشطة في حالات الكوارث.</p><p><strong>ممارسة الأعمال التجارية مع الوكالة الفيدرالية لإدارة الطوارئ (FEMA)</strong></p><p>إذا كنت مهتمًا بتقديم خدمات وسلع مدفوعة للإغاثة من الكوارث، يرجى زيارة صفحتنا <a href="/business-industry/doing-business">Doing Business with FEMA</a> للبدء.</p><p>إذا كنت تمتلك شركة معنية بإزالة الحطام وترغب في العمل في جهود التنظيف في المناطق المتضررة، يرجى الاتصال بالحكومة المحلية في المناطق المتضررة لتقديم خدماتك.</p><p>&nbsp;</p><p>.</p></div>
+      
+  </div>
+
+      
+  <a id="funding-obligations"></a>
+  <h2>التزامات التمويل </h2>
+
+          <table class="disaster">
+      <thead>
+      <tr>
+        <th class="declaration">مساعدة فردية</th>
+        <th class="amount">كمية المبلغ </th>
+      </tr>
+      </thead>
+      </tbody>
+      
+        <tr>
+          <td class="declaration">إجمالي مساعدات الإسكان (HA)  –المبلغ الموافق عليه</td>
+          <td class="amount">$20,952,790.61</td>
+        </tr>
+                    <tr>
+          <td class="declaration">مجموع المساعدة للإحتياجات الاخرى (ONA) – المبلغ الموافق عليه</td>
+          <td class="amount">$29,076,664.62</td>
+        </tr>
+                    <tr>
+          <td class="declaration">
+            <strong>إجمالي المساعدة الموافق عليها والخاصة ببرنامج الأفراد والأسر</strong>
+          </td>
+          <td class="amount">
+            <strong>$50,029,455.23</strong>
+          </td>
+        </tr>
+            <tr>
+        <td class="declaration">طلبات المساعدة الفردية والموافق عليها </td>
+        <td class="amount">
+          15728</td>
+      </tr>
+      <tbody>
+    </table>
+        
+  </div>
+<div class="views-element-container block block-views block-views-blockupdated-date-view-block-block-1" id="block-views-block-updated-date-view-block-block-1">
+  
+    
+      <div><div class="view view-updated-date-view-block view-id-updated_date_view_block view-display-id-block_1 js-view-dom-id-e517a5e56f6ff21334efefe617b1eb25bd32ab5c7aa1d0122689c55dba12a34f">
+  
+    
+      
+  
+          </div>
+</div>
+
+  </div>
+
+            </div>
+         </div>
+  
+            <div class="grid-container usa-footer__return-to-top">
+              <a href="#">العودة لأعلى الصفحة</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+      </div>
+
+
+</main>
+
+<footer class="usa-footer usa-footer--medium" role="contentinfo">
+      <div class="footer-top">
+  <div class="grid-container ">
+    <div class="grid-row">
+              <nav class="" aria-label="Footer navigation">
+            <div class="region region-footer-menu">
+    
+
+    
+                <ul class="grid-row grid-gap add-list-reset">
+        
+    
+                  <li class="usa-footer__primary-content">
+        <a href="/ar/node/575622" class="usa-footer__primary-link" data-drupal-link-system-path="node/575622">Disasters &amp; Assistance</a>
+      </li>
+      
+    
+                  <li class="usa-footer__primary-content">
+        <a href="/ar/grants" class="usa-footer__primary-link" data-drupal-link-system-path="node/401141">Grants</a>
+      </li>
+      
+    
+                  <li class="usa-footer__primary-content">
+        <a href="/ar/flood-insurance" class="usa-footer__primary-link" data-drupal-link-system-path="node/401548">Floods &amp; Maps</a>
+      </li>
+      
+    
+                  <li class="usa-footer__primary-content">
+        <a href="/ar/emergency-managers/individuals-communities" class="usa-footer__primary-link" data-drupal-link-system-path="node/471175">Emergency Management</a>
+      </li>
+      
+    
+                  <li class="usa-footer__primary-content">
+        <a href="/ar/about" class="usa-footer__primary-link" data-drupal-link-system-path="node/367252">About</a>
+      </li>
+      
+    
+                  <li class="usa-footer__primary-content">
+        <a href="/ar/careers" class="usa-footer__primary-link" data-drupal-link-system-path="node/355775">Work With Us</a>
+      </li>
+      
+    
+                </ul>
+        
+  
+
+
+
+  </div>
+
+        </nav>
+          </div>
+  </div>
+</div>
+
+<div class="footer-middle">
+  <div class="grid-container ">
+    <div class="grid-row">
+
+      <div class="usa-logo footer mobile-lg:grid-col-6">
+        <a class="logo-img" href="/" accesskey="1" title="FEMA logo" aria-label="Home">
+          <img src="/profiles/femad8_gov/themes/fema_uswds/images/fema-logo-blue.svg" alt="FEMA Logo">
+        </a>
+      </div>
+
+      <div class="usa-footer__contact-links mobile-lg:grid-col-6">
+        <div class="usa-footer__social-links grid-row grid-gap-1">
+
+          <div class="grid-col-auto">
+            <a class="usa-social-link usa-social-link--facebook" href="https://www.facebook.com/FEMA/?ref=bookmarks"
+               target="_blank">
+              <span>Facebook</span>
+            </a>
+          </div>
+
+          <div class="grid-col-auto">
+            <a class="usa-social-link usa-social-link--instagram" href="https://www.instagram.com/fema" target="_blank">
+              <span>Instagram</span>
+            </a>
+          </div>
+
+
+          <div class="grid-col-auto">
+            <a class="usa-social-link usa-social-link--twitter" href="https://twitter.com/fema" target="_blank">
+              <span>Twitter</span>
+            </a>
+          </div>
+
+          <div class="grid-col-auto">
+            <a class="usa-social-link usa-social-link--youtube" href="https://www.youtube.com/fema" target="_blank">
+              <span>YouTube</span>
+            </a>
+          </div>
+
+          <div class="grid-col-auto">
+            <a class="usa-social-link usa-social-link--linkedin" href="https://www.linkedin.com/company/fema/"
+               target="_blank">
+              <span>LinkedIn</span>
+            </a>
+          </div>
+
+          <div class="grid-col-auto">
+            <a class="usa-social-link usa-social-link--newsletter" href="https://www.fema.gov/about/newsletters"
+               target="_blank">
+              <span>Newsletter</span>
+            </a>
+          </div>
+
+        </div>
+
+        <div class="contact-link"><a href="/about/contact">Contact FEMA</a> </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="footer-bottom">
+
+        <div class="region region-footer-secondary">
+    <div id="block-footeragencyinformation" class="block block-block-content block-block-contentcd38ff98-fe63-4d86-84f6-54f0d07335de">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"> <div class="grid-container">
+ <div class="grid-row">
+ <div class="footer-bottom-left mobile-lg:grid-col-9">
+          <div class="footer-logo-container">
+            <div class="footer-logo-block" style="width: 100%;">
+              <div><img class="dhs-footer-logo" src="/profiles/femad8_gov/themes/fema_uswds/images/dhs_seal.svg" alt="DHS logo" /></div>
+              <div><span class="footer-agency">FEMA.gov</span><br>
+                  <span class="footer-dhs-tagline">An official website of the <a href="https://dhs.gov" target="_blank">U.S. Department of Homeland Security</a></span>
+              </div>
+          </div>
+          </div>
+          <div class="footer-menu-container">
+            <div class="footer-menu-block">
+              <ul class="footer-menu flex-wrap">
+                <li><a href="/accessibility">Accessibility</a></li>
+                <li><a href="/about/reports-and-data/annual-reports">Accountability</a></li>
+                <li><a href="/careers">Careers</a></li>
+                <li><a href="/about/offices/equal-rights/civil-rights">Civil Rights</a></li>
+                <li ><a href="/about/contact">Contact Us</a></li>
+                <li><a href="/foia">FOIA</a></li>
+                <li ><a href="/about/glossary">Glossary</a></li>
+                <li><a href="/about/organization/equal-rights/no-fear-act">No FEAR Act</a></li>
+                <li><a href="/about/website-information/plug-ins">Plug-Ins</a></li>
+                <li><a href="/about/privacy-policy">Privacy</a></li>
+                <li><a href="/about/organization/security/disaster-fraud">Report Disaster Fraud</a></li>
+                <li><a href="/about/website-information">Website Information</a></li>
+                <li><a href="https://dhs.gov" target="_blank">DHS.gov</a></li>
+                <li><a href="https://usa.gov" target="_blank">USA.gov</a></li>
+                <li><a href="https://www.oig.dhs.gov/" target="_blank">Inspector General</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      <div class="footer-bottom-right">
+        <iframe src="https://www.dhs.gov/ntas/" name="National Terrorism Advisory System" title="National Terrorism Advisory System" width="170" height="180" scrolling="no" frameborder="0" seamless border="0"></iframe>
+      </div>
+</div>
+</div></div>
+      
+  </div>
+<div id="block-jshotfix" class="block block-block-content block-block-content535a6038-bf64-4db2-8033-3142186c63e9">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-field-custom-text-and-html field--type-text-long field--label-hidden field__item"><script type="text/javascript">
+
+// (function ($) {
+//  Drupal.behaviors.myModule = {
+//    attach: function (context, settings) {
+//      if ($('body').hasClass('page-node-type-filterable-node')) {
+//        var title_text = $('.uswds-page-title').text();
+//        if (title_text) {
+//          if (title_text.split(" ").includes("Rumor:")) {
+//            if (!(document.title.includes("Rumor: "))) {
+//              if (context.title) {
+//                 var newTitle = context.title.replace(' |',':');
+//                 document.title = newTitle;
+//               }
+//             }
+//          }
+//        }
+//      }
+//    }
+//  };
+// })(jQuery);
+
+jQuery('.page-node-type-filterable-node h2:contains("Fact")').remove();
+
+jQuery(document).ready(function(){
+
+jQuery("input#edit-date-of-incorporation-inception").attr("autocomplete", "off");
+
+jQuery('div.profile-img').empty();  
+
+});
+
+jQuery(document).ready(function(){
+  targetPath = '/flood-insurance/work-with-nfip/community-status-book/public-notification/communities-list';
+  if (window.location.pathname.endsWith(targetPath)) {
+    targetTable = jQuery('.field--name-field-data-table-csv .datatable').DataTable();
+    targetTable.order([0, 'desc']).draw();
+  }
+});
+
+</script></div>
+      
+  </div>
+
+  </div>
+
+  
+</div>  </footer>
+
+  </div>
+
+    
+    <script src="/core/misc/debounce.js?v=10.3.6"></script>
+<script src="/modules/contrib/blazy/js/dblazy.min.js?sndmi0"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.once.min.js?sndmi0"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.sanitizer.min.js?sndmi0"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.dom.min.js?sndmi0"></script>
+<script src="/modules/contrib/blazy/js/base/blazy.base.min.js?sndmi0"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.dataset.min.js?sndmi0"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.viewport.min.js?sndmi0"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.xlazy.min.js?sndmi0"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.observer.min.js?sndmi0"></script>
+<script src="/modules/contrib/blazy/js/base/io/bio.min.js?sndmi0"></script>
+<script src="/modules/contrib/blazy/js/base/io/bio.media.min.js?sndmi0"></script>
+<script src="/modules/contrib/blazy/js/base/blazy.drupal.min.js?sndmi0"></script>
+<script src="/modules/contrib/blazy/js/blazy.compat.min.js?sndmi0"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=6.2.0"></script>
+<script src="/profiles/femad8_gov/modules/custom/back_to_top/js/back_to_top.js?v=10.3.6"></script>
+<script src="/modules/contrib/google_analytics/js/google_analytics.js?v=10.3.6"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/assets/js/uswds.min.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/fema_menu_expansion.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/fema_tables.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/fema_chosen_fix.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/fema_uswds.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/fema_search.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/fema_iframe.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/fema_sitewide.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/fema_search_filter.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/fema_saml.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/fema_code_typography.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/datatables.min.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/fema_tablesaw.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/luxon.min.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/views_data_export_auto_download.js?v=1.x"></script>
+<script src="/modules/contrib/responsive_tables_filter/js/tablesaw.min.js?v=1.x"></script>
+<script src="/modules/contrib/responsive_tables_filter/js/tablesaw-init.js?v=1.x"></script>
+<script src="/modules/contrib/responsive_tables_filter/js/Drupal/ajaxComplete.js?v=1.x"></script>
+<script src="/modules/contrib/responsive_tables_filter/js/customizations.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/query_string.min.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/views_button_filters.js?v=1.x"></script>
+<script src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DHS&amp;subagency=FEMA&amp;yt=true" id="_fed_an_ua_tag"></script>
+<script src="/modules/contrib/extlink/js/extlink.js?v=10.3.6"></script>
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@3.0.1/dist/js.cookie.min.js"></script>
+<script src="/modules/contrib/ableplayer/js/ableplayer.min.js?v=4.4.1"></script>
+<script src="/modules/contrib/emerald_client/js/emerald.ableplayer.js?sndmi0"></script>
+<script src="/libraries/chosen/chosen.jquery.min.js?v=2.2.1"></script>
+<script src="/modules/contrib/chosen/js/chosen.js?v=1.7.0"></script>
+<script src="/modules/contrib/chosen/js/chosen-bef.js?sndmi0"></script>
+<script src="/core/misc/progress.js?v=10.3.6"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.3.0"></script>
+<script src="/core/misc/announce.js?v=10.3.6"></script>
+<script src="/core/misc/message.js?v=10.3.6"></script>
+<script src="/core/misc/ajax.js?v=10.3.6"></script>
+<script src="/themes/contrib/stable/js/ajax.js?v=10.3.6"></script>
+<script src="/modules/contrib/blazy/js/base/io/bio.ajax.min.js?sndmi0"></script>
+<script src="/core/misc/jquery.form.js?v=4.3.0"></script>
+<script src="/core/modules/views/js/base.js?v=10.3.6"></script>
+<script src="/core/modules/views/js/ajax_view.js?v=10.3.6"></script>
+
+  </body>
+</html>

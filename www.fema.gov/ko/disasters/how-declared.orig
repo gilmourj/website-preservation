@@ -1,0 +1,2730 @@
+<!DOCTYPE html>
+<html lang="ko" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-29391347-1"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-29391347-1", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path","allow_ad_personalization_signals":false});</script>
+<meta name="description" content="이 페이지에서는 스태포드법(Stafford Act) 선언 과정에 대해서 설명하며, 공식 선언절차에 관심이 있는 비상사태 매니저, 선출직 공무원, 언론 및 이해관계자를 대상으로 합니다.  모든 비상사태 및 중대 재난 선언은 오로지 미국 대통령의 재량에 따라이루어집니다. 로버트 스태포드 재난 구제 및 비상 부조법(Robert T. Stafford Disaster Relief and Emergency Assistance Act)인미국법(42 U.S.C.) §§ 5121-5207 및 §401 조항의 일부 규정: “대통령에게 중대 재난이 발생하였음을 선언하도록 하는 모든 요청은 해당 주의 주지사가 해야 한다.”   그러한 주로서 컬럼비아 특별구(DC), 푸에르토리코, 버진제도, 괌, 미국령 사모아, 북 마리아나 제도 등이 포함됩니다. 마셜제도와 마이크로네시아 연방도 자유연합협정(Compacts of Free Association)을 통해 선언을 요청하고지원을 받을 수 있습니다." />
+<link rel="canonical" href="https://www.fema.gov/ko/disaster/how-declared" />
+<meta property="og:title" content="재난 선언 방법" />
+<meta property="og:description" content="이 페이지에서는 스태포드법(Stafford Act) 선언 과정에 대해서 설명하며, 공식 선언절차에 관심이 있는 비상사태 매니저, 선출직 공무원, 언론 및 이해관계자를 대상으로 합니다.  모든 비상사태 및 중대 재난 선언은 오로지 미국 대통령의 재량에 따라이루어집니다. 로버트 스태포드 재난 구제 및 비상 부조법(Robert T. Stafford Disaster Relief and Emergency Assistance Act)인미국법(42 U.S.C.) §§ 5121-5207 및 §401 조항의 일부 규정: “대통령에게 중대 재난이 발생하였음을 선언하도록 하는 모든 요청은 해당 주의 주지사가 해야 한다.”   그러한 주로서 컬럼비아 특별구(DC), 푸에르토리코, 버진제도, 괌, 미국령 사모아, 북 마리아나 제도 등이 포함됩니다. 마셜제도와 마이크로네시아 연방도 자유연합협정(Compacts of Free Association)을 통해 선언을 요청하고지원을 받을 수 있습니다." />
+<meta property="og:image" content="https://www.fema.gov/sites/default/files/2020-04/fema_logo_horizontal.png" />
+<meta name="facebook-domain-verification" content="99gx41o8o8q3mrsvbvml6ji6xmwzdn" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/profiles/femad8_gov/themes/fema_uswds/images/favicon.ico" type="image/vnd.microsoft.icon" />
+
+          <title>재난 선언 방법 | FEMA.gov</title>
+          <link rel="stylesheet" media="all" href="/sites/default/files/css/css__FKaGugFQSIvWkGXSm7uaaFK_ePNbPcjEiZEf1QzM6I.css?delta=0&amp;language=ko&amp;theme=fema_uswds&amp;include=eJx1kQGOhCAMRS-EciRSoCqxUENxXPf0y4gbJ2NMCOl__YVCLbjZFK5r0faKTXCclOxSMFYuqFbZvGif1wVIOQKRXUcUgRFFOc6oE-cIFH5RDRjBtIKR2AJ1UnYKafzMDJyKqIyycJLwQlPAEooZAhXMuinYuqYV_pR6wnx20J9SvV0LwV4rrlC5iQXTv7epExoKVrewdyLqFXATfex9ZL_S2b5lno0DIl6LtsRu7t6mlnzkE7qZgtwzGDEDeTOuBZPFPN4cA0JZ6zc-cBNDCk9Jb6TU4aG_Ga77LjYh-DqMm_f43294zOGTfr1ADvoH9PvioA" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_L7-tv93CNTPlL-JIkx8KX_5i_vQL_LUzmUQ807CTCsA.css?delta=1&amp;language=ko&amp;theme=fema_uswds&amp;include=eJx1kQGOhCAMRS-EciRSoCqxUENxXPf0y4gbJ2NMCOl__YVCLbjZFK5r0faKTXCclOxSMFYuqFbZvGif1wVIOQKRXUcUgRFFOc6oE-cIFH5RDRjBtIKR2AJ1UnYKafzMDJyKqIyycJLwQlPAEooZAhXMuinYuqYV_pR6wnx20J9SvV0LwV4rrlC5iQXTv7epExoKVrewdyLqFXATfex9ZL_S2b5lno0DIl6LtsRu7t6mlnzkE7qZgtwzGDEDeTOuBZPFPN4cA0JZ6zc-cBNDCk9Jb6TU4aG_Ga77LjYh-DqMm_f43294zOGTfr1ADvoH9PvioA" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Merriweather:400,700|Source+Sans+Pro:200,400,600,700&amp;display=swap" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_cdueCvJ7kcH-hRclMjxGdYrxYqfX35GpCtyK5CcsOEw.css?delta=3&amp;language=ko&amp;theme=fema_uswds&amp;include=eJx1kQGOhCAMRS-EciRSoCqxUENxXPf0y4gbJ2NMCOl__YVCLbjZFK5r0faKTXCclOxSMFYuqFbZvGif1wVIOQKRXUcUgRFFOc6oE-cIFH5RDRjBtIKR2AJ1UnYKafzMDJyKqIyycJLwQlPAEooZAhXMuinYuqYV_pR6wnx20J9SvV0LwV4rrlC5iQXTv7epExoKVrewdyLqFXATfex9ZL_S2b5lno0DIl6LtsRu7t6mlnzkE7qZgtwzGDEDeTOuBZPFPN4cA0JZ6zc-cBNDCk9Jb6TU4aG_Ga77LjYh-DqMm_f43294zOGTfr1ADvoH9PvioA" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"ko\/","currentPath":"node\/378213","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"ko","femaLinkPath":"profiles\/femad8_gov\/modules\/custom\/fema_gutenberg\/modules\/fema_link"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"back_to_top":{"back_to_top_button_trigger":"800","back_to_top_prevent_on_mobile":0,"back_to_top_prevent_in_admin":0,"back_to_top_button_type":"image","back_to_top_button_text":"Back to top"},"dynamic_home":{"dynamic_home_timezone":"UTC","dynamic_home_offset":0},"google_analytics":{"account":"UA-29391347-1","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":1},"data":{"extlink":{"extTarget":true,"extTargetAppendNewWindowLabel":"(opens in a new window)","extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"(.*\\.gov)|(.*\\.mil)|(\\.addthis.com)|(.*\\.fema.net)|(s3-us-gov-west-1\\.amazonaws\\.com)|(surveymonkey\\.com)","extInclude":"","extCssExclude":"","extCssInclude":"","extCssExplicit":"","extAlert":true,"extAlertText":"You are now leaving an official website of the Federal Emergency Management Agency. Links to non-FEMA sites are provided for the convenience of the visitor and do not represent an endorsement by FEMA of any commercial or private issues, products or services. Note that the privacy policy of the linked site may differ from that of FEMA.","extHideIcons":false,"mailtoClass":"0","telClass":"","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","whitelistedDomains":[],"extExcludeNoreferrer":""}},"chosen":{"selector":"select:not(\u0022[name^=Data],[id=edit-field-ael-category-target-id],[id*=edit-field-ael-category-target-id],[id=edit-album-name],[id=edit-disaster-declarations],[id=edit-fema-regions]\u0022)","minimum_single":20,"minimum_multiple":0,"minimum_width":100,"use_relative_width":true,"options":{"disable_search":false,"disable_search_threshold":0,"allow_single_deselect":false,"add_helper_buttons":false,"search_contains":false,"placeholder_text_multiple":"\uc77c\ubd80 \uc635\uc158 \uc120\ud0dd","placeholder_text_single":"\uc635\uc158 \uc120\ud0dd","no_results_text":"\uacb0\uacfc\uac00 \uc77c\uce58\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4","max_shown_results":null,"inherit_select_classes":true}},"csp":{"nonce":"Zz5szlY5aWGw3HF9clj5uQ"},"user":{"uid":0,"permissionsHash":"a086488b56f95f018fc390cc1cdd8b285578f0aee5de5071f9750274bcc5de36"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/sites/default/files/languages/ko_sigg4vdwU7zDaqj_q8GumBZgY79MflNyV5WSydhiQnc.js?sndmi0"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.3.6"></script>
+<script src="/core/misc/drupal.js?v=10.3.6"></script>
+<script src="/core/misc/drupal.init.js?v=10.3.6"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/pre_chosen.js?v=1.x"></script>
+
+      <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-PNFPGG3');</script>
+      <!-- End Google Tag Manager -->
+  </head>
+  <body class="path-node page-node-type-custom-site-page">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PNFPGG3"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+      <a href="#main-content" class="visually-hidden focusable skip-link">
+      주요 콘텐츠로 건너뛰기
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+  <div class="usa-banner">
+  <div class="usa-accordion">
+    <header class="usa-banner__header">
+      <div class="usa-banner__inner">
+        <div class="grid-col-auto usa-banner__header-flag-position">
+          <img class="usa-banner__header-flag" src="/profiles/femad8_gov/themes/fema_uswds/assets/img/us_flag_small.png" alt="U.S. flag"/>
+        </div>
+        <div class="grid-col-fill tablet:grid-col-auto usa-banner__header-text-position">
+          <p class="usa-banner__header-text">미국 정부 공식 웹사이트입니다</p>
+          <p class="usa-banner__header-action" aria-hidden="true">아실 수 있습니다</p>
+        </div>
+        <button class="usa-accordion__button usa-banner__button"
+                aria-expanded="false" aria-controls="gov-banner">
+          <span class="usa-banner__button-text">아실 수 있습니다</span>
+        </button>
+        <div class="grid-col-fill usa-banner__dropdown-language-menu language-switcher-banner">
+          <div role="navigation" class="block block-language block-language-blocklanguage-interface">
+  
+    
+      
+
+<ul class="language-switcher-language-url usa-nav__primary usa-accordion">
+    <li class="usa-nav__primary-item  ">
+      <button class="usa-accordion__button usa-nav__link usa-current " aria-expanded="false"
+              aria-controls="menu-toggle-16742580f401e2">
+            <span>
+              <img src="/profiles/femad8_gov/themes/fema_uswds/images/world-icon.png" alt="world globe">
+            </span>
+        <span class="language-block-language-text">언어 설정</span>
+      </button>
+      <ul id="menu-toggle-16742580f401e2" class="usa-nav__submenu hide-on-load "><li class="language-switcher-language-url usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/disaster/how-declared" class="language-link language-en" hreflang="en" data-drupal-link-system-path="node/378213">English</a></li><li class="language-switcher-language-url usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/es/disaster/how-declared" class="language-link language-es" hreflang="es" data-drupal-link-system-path="node/378213">Español</a></li><li class="language-switcher-language-url usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/fr/node/378213" class="language-link language-fr" hreflang="fr" data-drupal-link-system-path="node/378213">Français</a></li><li class="language-switcher-language-url usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/ht/disaster/how-declared" class="language-link language-ht" hreflang="ht" data-drupal-link-system-path="node/378213">Kreyòl</a></li><li class="language-switcher-language-url usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/vi/disaster/how-declared" class="language-link language-vi" hreflang="vi" data-drupal-link-system-path="node/378213">Tiếng Việt</a></li><li class="language-switcher-language-url usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/zh-hans/disaster/how-declared" class="language-link language-zh-hans" hreflang="zh-hans" data-drupal-link-system-path="node/378213">简体中文</a></li><li class="language-switcher-language-url usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/ko/disaster/how-declared" class="language-link language-ko is-active" hreflang="ko" data-drupal-link-system-path="node/378213" aria-current="page">한국어</a></li></ul>
+    </li>
+  </ul>
+  </div>
+
+        </div>
+      </div>
+    </header>
+    <div class="usa-banner__content usa-accordion__content hide-on-load" id="gov-banner">
+      <div class="grid-row grid-gap-lg">
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img class="usa-banner__icon usa-media-block__img" src="/profiles/femad8_gov/themes/fema_uswds/assets/img/icon-dot-gov.svg" alt="Dot gov">
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Official websites use .gov</strong>
+            </p>
+            <p>
+              A <strong>.gov</strong> website belongs to an official government organization in the United States.
+            </p>
+          </div>
+        </div>
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img class="usa-banner__icon usa-media-block__img" src="/profiles/femad8_gov/themes/fema_uswds/assets/img/icon-https.svg" alt="Https">
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Secure .gov websites use HTTPS</strong>
+            </p>
+            <p>
+              A <strong>lock</strong> (
+<span class="icon-lock"><svg xmlns="http://www.w3.org/2000/svg" width="52" height="64" viewBox="0 0 52 64" class="usa-banner__lock-image" role="img" aria-labelledby="banner-lock-title banner-lock-description"><title id="banner-lock-title">Lock</title><desc id="banner-lock-description">A locked padlock</desc><path fill="#000000" fill-rule="evenodd" d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"/></svg></span>
+) or <strong>https://</strong> means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+              .
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="usa-overlay"></div>
+
+<header class="usa-header usa-header--extended" role="banner">
+      <div class="usa-navbar">
+          <div class="header-row-container">
+          <div class="header-wrapper">
+            <div class="grid-container">
+            
+                <div class="usa-logo" id="logo">
+
+    <a class="logo-img" href="/ko" accesskey="1" title="FEMA logo" aria-label="Home">
+    <img src="/profiles/femad8_gov/themes/fema_uswds/images/fema-logo-blue.svg" alt="FEMA Logo" />
+  </a>
+    
+</div>
+<div id="block-csshotfix" class="block block-block-content block-block-content50de9bbe-238b-4bc2-8804-1b7def9cb0c8">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><style type="text/css">
+
+.page-node-type-filterable-node h2 {
+display:none;
+}
+
+.profile-details {
+border: none !important;
+}
+
+.profile-img {
+display: none !important;
+}
+
+.profile-container .profile-details .profile-text {
+margin: 0 !important;
+align-self: start !important;
+padding: 0 !important;
+}
+
+.storytelling-minis .feature_mini .feature_mini_blocks .fema-heading h3 {
+font-size: 1em !important;
+}
+
+.has-large-font-size {
+line-height: 3.2em;
+}
+
+a.visually-hidden.skip-link {
+min-height: 44px !important;
+min-width: 44px !important;
+}
+
+.usa-banner__header-text, p.usa-banner__header-text (
+line-height: 1.5 !important;
+)
+/************ MEDIA LIBRARY SEARCH **************/
+.emerald_medialibrary_advanced_search .usa-form-group .chosen-container,
+.emerald_medialibrary_advanced_search .usa-form-group select {
+    width: auto !important;
+}
+
+.emerald_medialibrary_advanced_search #edit-advanced-search-content {
+
+}
+
+.emerald-medialibrary-advanced-search .usa-form-group {
+    margin-top: 0rem;
+    width: auto;
+    display: inline-block;
+    margin-right: 1rem;
+}
+
+.emerald_medialibrary_advanced_search .fieldset-wrapper {
+    display:flex;
+}
+.emerald-medialibrary-advanced-search ul.usa-accordion h2 {
+  margin-top:0px;
+        margin-bottom:0px;
+        font-size: inherit;
+}
+.emerald-medialibrary-advanced-search ul.usa-accordion h2 hr {
+        display:none;
+}
+
+.emerald-medialibrary-advanced-search legend.usa-legend .fieldset-legend h3 {
+     margin-bottom:0px;
+     margin-top: 20px;
+}
+.emerald-medialibrary-advanced-search .form-item-search-terms {
+    width: 400px;
+    display: inline-block;
+}
+.emerald-medialibrary-advanced-search .emerald-browse-submit, 
+.emerald-medialibrary-advanced-search .form-submit.usa-button {
+    padding: .75rem 1.25rem;
+}
+
+.emerald_medialibrary_advanced_search .form-item-album-name select {
+    width: 300px;
+}
+
+.emerald_medialibrary_advanced_search .form-item-fema-regions {
+
+}
+/************ END **************/
+
+
+/************ MEDIA COLLECTIONS SEARCH **************/
+
+.emerald_medialibrary_collections_search .usa-form-group .chosen-container,
+.emerald_medialibrary_collections_search .usa-form-group select {
+    width: auto !important;
+}
+
+.emerald_medialibrary_collections_search #edit-collections-search-content {
+
+}
+
+.emerald-medialibrary-collections-search .usa-form-group {
+    margin-top: 0rem;
+    width: auto;
+    display: inline-block;
+    margin-right: 1rem;
+}
+
+.emerald_medialibrary_collections_search .fieldset-wrapper {
+    display:flex;
+}
+.emerald-medialibrary-collections-search ul.usa-accordion h2 {
+        margin-top:0px;
+        margin-bottom:0px;
+        font-size: inherit;
+}
+.emerald-medialibrary-collections-search ul.usa-accordion h2 hr {
+        display:none;
+}
+
+.emerald-medialibrary-collections-search legend.usa-legend .fieldset-legend h3 {
+     margin-bottom:0px;
+     margin-top: 20px;
+}
+.emerald-medialibrary-collections-search .form-item-search-terms {
+    width: 400px;
+    display: inline-block;
+}
+.emerald-medialibrary-collections-search .emerald-browse-submit, 
+.emerald-medialibrary-collections-search .form-submit.usa-button {
+    padding: .75rem 1.25rem;
+}
+
+.emerald_medialibrary_collections_search .form-item-album-name select {
+    width: 300px;
+}
+
+.emerald_medialibrary_collections_search .form-item-fema-regions {
+
+}
+
+#emerald-medialibrary-collections-search .usa-accordion__button {
+    padding: 1rem 3.5rem 1rem 1.25rem;
+}
+#emerald-medialibrary-collections-search #edit-filters {
+   margin-top:0px;
+   margin-bottom:0px;
+}
+/************ END **************/
+
+/************ MEDIA COLLECTION HEADER **************/
+body.path-fema-media-library .emerald-container .grid-container {
+  padding-top:2rem;
+  padding-bottom:2rem;
+  margin-bottom:0.5rem !important;
+}
+
+body.path-fema-media-library .emerald-container .emerald-collection-page .usa-hero-callout-container .usa-hero__callout {
+background: rgba(6,6,6,0.8) !important;
+}
+
+body.path-fema-media-library .emerald-container .usa-hero__heading {
+    font-family: Merriweather Web, Georgia, Cambria, Times New Roman, Times, serif !important;
+    font-size: 1.95rem !important;
+    line-height: 1.2 !important;
+    font-weight: 700 !important;
+    color: #fff !important;
+}
+
+body.path-fema-media-library .emerald-container .usa-hero__callout p {
+    font-size: 1.06rem;
+}
+/************ END **************/
+</style></div>
+      
+  </div>
+<div id="block-fema-uswds-applyforassistancemenulink-2" class="block block-block-content block-block-contenta8a31980-478a-4fde-b733-02786b2a8516">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><a class="header-apply-link" target="_blank" href="https://www.disasterassistance.gov/help-desk/korean">온라인 지원 신청하기</a></div>
+      
+  </div>
+
+
+                <button class="usa-menu-btn">
+                  <span class="sr-only">Toggle Menu  </span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+            </div>
+         </div>
+    </div>
+
+    </div>
+
+    <nav class="usa-nav" role="navigation" aria-label="main navigation">
+      <button class="usa-nav__close">
+        <img src="/profiles/femad8_gov/themes/fema_uswds/images/close-blue-60v-alt.svg" alt="close"/>
+      </button>
+            <div class="usa-nav__inner">
+        
+                    <div class="region region-primary-menu">
+    
+
+              <ul class="usa-nav__primary usa-accordion">
+      
+              
+                <li class="usa-nav__primary-item ">
+                                                                                                                                                                                                                                                                                                  <button class="usa-accordion__button usa-nav__link usa-current-button" aria-expanded="false" aria-controls="megamenu-1">
+                      <span>재난과 지원</span>
+                    </button>
+                  
+                                                      <ul id="megamenu-1" class="usa-nav__submenu usa-megamenu hide-on-load">
+                      <div class="grid-row grid-gap-4">
+              <div class="usa-col">
+                <ul class="usa-nav__submenu-list">
+                
+                
+              
+              
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ko/disaster/current">
+                        <span>현재의 재난들</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/686574" >
+                      <span>Alaska Flooding</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/684984" >
+                      <span>Connecticut Severe Storm</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/682169" >
+                      <span>Florida Hurricane Debby</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/disaster/4834" >
+                      <span>Florida Hurricane Milton</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/685256" >
+                      <span>Georgia Tropical Storm Debby</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/685315" >
+                      <span>Hurricane Helene</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/684986" >
+                      <span>Illinois Severe Storms</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/679048" >
+                      <span>Iowa Severe Storms (June)</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/disaster/4817" >
+                      <span>Louisiana Hurricane Francine</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/687544" >
+                      <span>New Mexico Severe Storms</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/678830" >
+                      <span>New Mexico Wildfires</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/684498" >
+                      <span>Pennsylvania Tropical Storm Debby</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/disaster/4798" >
+                      <span>Texas Hurricane Beryl</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/683197" >
+                      <span>Vermont Severe Storms (July 9-11)</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/685400" >
+                      <span>Vermont Severe Storms (July 29-31)</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/622080" >
+                      <span>Wildfire Actions</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/685273" >
+                      <span>Yakama Nation Wildfires</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/disaster/declarations" >
+                      <span>재난 선언</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ko/assistance">
+                        <span>재난 후 도움받기</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/687529" >
+                      <span>Businesses</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/assistance/public" >
+                      <span>정부 및 개인 비영리</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/assistance/individual" >
+                      <span>개인 및 가족</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ko/disaster/recover">
+                        <span>Tools to Recover</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/disaster/recover/rumor-control" >
+                      <span>일반적인 재난 관련 소문들</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/disaster/recover/multimedia-toolkit" >
+                      <span>재난 멀티미디어 툴킷</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/disaster/recover/faq" >
+                      <span>재해-관련 자주 묻는 질문</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/disaster/recover/languages" >
+                      <span>귀하 언어의 FEMA</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/disaster/recover/save-family-treasures" >
+                      <span>가족 귀중품 구하기</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/disaster/recover/volunteer-donate" >
+                      <span>자원 &amp; 기부</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ko/disaster">
+                        <span>재난</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/locations" >
+                      <span>Search Your Location</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/disaster/how-declared" >
+                      <span>재난 선언 방법</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/670194" >
+                      <span>Declarations for Tribal Nations</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/disaster/authorities" >
+                      <span>재난 당국</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/disaster/historic" >
+                      <span>기존 재난</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                                            </ul>
+          </div>
+        </div>
+    </ul>
+  
+
+
+                  
+                
+                <li class="usa-nav__primary-item ">
+                                                                                                                                                                                                          <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="megamenu-2">
+                      <span>보조금</span>
+                    </button>
+                  
+                                                      <ul id="megamenu-2" class="usa-nav__submenu usa-megamenu hide-on-load">
+                      <div class="grid-row grid-gap-4">
+              <div class="usa-col">
+                <ul class="usa-nav__submenu-list">
+                
+                
+              
+              
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ko/grants">
+                        <span>보조금 유형</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/629987" >
+                      <span>Preparedness Grants</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/grants/mitigation" >
+                      <span>재난 완화 보조금</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/grants#resilience" >
+                      <span>회복 보조금</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/658499" >
+                      <span>Continuing Training Grants Program</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/618343" >
+                      <span>Emergency Food and Shelter Program</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/657513" >
+                      <span>Shelter and Services Program</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ko/node/636201">
+                        <span>Policy &amp; Guidance</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/grants/procurement" >
+                      <span>보조금에 따른 조달</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/636158" >
+                      <span>&quot;Buy America&quot; Preference</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/663733" >
+                      <span>Bipartisan Infrastructure Law</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/653558" >
+                      <span>Low-Carbon Goals</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/608225" >
+                      <span>2 CFR Policy Updates</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ko/node/471301">
+                        <span>지침과 도구</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/grants/tools/authorized-equipment-list" >
+                      <span>Authorized Equipment List</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/366486" >
+                      <span>편익 비용 분석</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/grants/guidance-tools/environmental-historic" >
+                      <span>환경 &amp; 기존 보존 지침</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/649844" >
+                      <span>FEMA Grants Outcomes (FEMA GO)</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/645604" >
+                      <span>Grants Management Technical Assistance</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/non-disaster-grants-management-system" >
+                      <span>Non-Disaster Grants Management System</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                                            </ul>
+          </div>
+        </div>
+    </ul>
+  
+
+
+                  
+                
+                <li class="usa-nav__primary-item ">
+                                                                                                                                                                                                                                                    <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="megamenu-3">
+                      <span>음식과 지도</span>
+                    </button>
+                  
+                                                      <ul id="megamenu-3" class="usa-nav__submenu usa-megamenu hide-on-load">
+                      <div class="grid-row grid-gap-4">
+              <div class="usa-col">
+                <ul class="usa-nav__submenu-list">
+                
+                
+              
+              
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ko/flood-insurance">
+                        <span>홍수 보험</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/flood-insurance/find-form" >
+                      <span>보험 양식 찾기</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/flood-insurance/work-with-nfip" >
+                      <span>국가 홍수 보험 프로그램과 협력</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/467888" >
+                      <span>NFIP’s Pricing Approach</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/flood-insurance/outreach-resources" >
+                      <span>보험 홍보 출판물</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/flood-insurance/rules-legislation" >
+                      <span>규칙과 법령</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/flood-insurance/advocate" >
+                      <span>홍수 보험 지지</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ko/floodplain-management">
+                        <span>범람원 관리</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/floodplain-management/manage-risk" >
+                      <span>밤람원 위험 요소 관리</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/floodplain-management/financial-help" >
+                      <span>재정적 도움 얻기</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/633197" >
+                      <span>Community Assistance Program for States</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/483472" >
+                      <span>Community Rating System</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/476119" >
+                      <span>범람원과 야생 생물의 보호</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/floodplain-management/intergovernmental" >
+                      <span>정부 간 협력</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/678815" >
+                      <span>Training</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ko/flood-maps">
+                        <span>침수 지도</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/501308" >
+                      <span>Flood Data Viewers &amp; Geospatial Data</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/flood-maps/change-your-flood-zone" >
+                      <span>귀하의 침수 지역 지정 변경</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/flood-maps/tools-resources/risk-map" >
+                      <span>위험 지도</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/flood-maps/products-tools" >
+                      <span>제품과 도구</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/368493" >
+                      <span>지침과 파트너</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/609752" >
+                      <span>Cooperating Technical Partners</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ko/flood-maps/know-your-risk">
+                        <span>위험성의 인식</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/flood-maps/know-your-risk/homeowners" >
+                      <span>주택소유자, 임차인, 사업주</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/flood-maps/know-your-risk/community-official" >
+                      <span>지역사회 공무원</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/flood-maps/know-your-risk/engineer-surveyor-architect" >
+                      <span>엔지니어, 측량기사, 건축가</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/flood-maps/know-your-risk/realtor-lending-insurance" >
+                      <span>부동산, 융자, 또는 보험 전문가</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/flood-maps/know-your-risk/government" >
+                      <span>주, 지방, 부족 또는 보호령 정부</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                                            </ul>
+          </div>
+        </div>
+    </ul>
+  
+
+
+                  
+                
+                <li class="usa-nav__primary-item ">
+                                                                                                                                                                                                                                                    <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="megamenu-4">
+                      <span>비상 관리</span>
+                    </button>
+                  
+                                                      <ul id="megamenu-4" class="usa-nav__submenu usa-megamenu hide-on-load">
+                      <div class="grid-row grid-gap-4">
+              <div class="usa-col">
+                <ul class="usa-nav__submenu-list">
+                
+                
+              
+              
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ko/emergency-managers/national-preparedness">
+                        <span>국가적 준비</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/emergency-managers/national-preparedness/training" >
+                      <span>훈련과 교육</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/emergency-managers/nims" >
+                      <span>국가적 사건 관리 시스템</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/emergency-managers/national-preparedness/frameworks" >
+                      <span>국가적 관리 프레임워크</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/emergency-managers/national-preparedness/goal" >
+                      <span>국가적 준비 목적</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/emergency-managers/national-preparedness/continuity" >
+                      <span>Continuity Resource Toolkit</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/622937" >
+                      <span>Equity</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/emergency-managers/national-preparedness/exercises" >
+                      <span>연습</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ko/emergency-managers/risk-management">
+                        <span>위험 관리</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/emergency-managers/risk-management/hazard-mitigation-planning" >
+                      <span>재난 완화 계획</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/emergency-managers/risk-management/building-science" >
+                      <span>과학 구축</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/emergency-managers/risk-management/earthquake" >
+                      <span>지진 위험</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/emergency-managers/risk-management/dam-safety" >
+                      <span>댐 안전</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/633191" >
+                      <span>Hurricane, Wind &amp; Water Surge Hazards</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/467840" >
+                      <span>기술적 위험 요소</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/685096" >
+                      <span>Climate Resilience</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ko/emergency-managers/practitioners">
+                        <span>의료진을 위한 도구</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/emergency-managers/practitioners/integrated-public-alert-warning-system" >
+                      <span>통합된 공공 알림 &amp; 경고 시스템</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/emergency-managers/national-preparedness/plan" >
+                      <span>계획 지침</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/emergency-managers/practitioners/lifelines" >
+                      <span>사례 연구 도서관</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/emergency-managers/practitioners/environmental-historic" >
+                      <span>환경적 계획 &amp; 기존 사례 관찰</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/646166" >
+                      <span>Recovery Resources</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/emergency-managers/practitioners/case-study-library" >
+                      <span>사례 연구 도서관</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/608857" >
+                      <span>PrepTalks</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/678503" >
+                      <span>Strategic Foresight 2050</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ko/emergency-managers/individuals-communities">
+                        <span>개인 &amp; 커뮤니티</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/637683" >
+                      <span>Preparedness Activities, Research &amp; Webinars</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/emergency-managers/individuals-communities/faith-volunteer" >
+                      <span>신앙 기반 및 자원 봉사 파트너십 리소스</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/childrens-role-emergency-planning" >
+                      <span>아동 &amp; 비상 계획</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/640385" >
+                      <span>Community Emergency Response Team (CERT)</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/626206" >
+                      <span>Activities to Reduce Risk for Your Home</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                                            </ul>
+          </div>
+        </div>
+    </ul>
+  
+
+
+                  
+                
+                <li class="usa-nav__primary-item ">
+                                                                                                                                                                                                                                                    <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="megamenu-5">
+                      <span>소개</span>
+                    </button>
+                  
+                                                      <ul id="megamenu-5" class="usa-nav__submenu usa-megamenu hide-on-load">
+                      <div class="grid-row grid-gap-4">
+              <div class="usa-col">
+                <ul class="usa-nav__submenu-list">
+                
+                
+              
+              
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ko/about">
+                        <span>당사 소개</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/about/how-fema-works" >
+                      <span>FEMA 운영 방식</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/629169" >
+                      <span>Strategic Plan</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/598800" >
+                      <span>Offices &amp; Leadership</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/about/organization/regions" >
+                      <span>지역</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/670203" >
+                      <span>Tribal Affairs</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/about/payment" >
+                      <span>FEMA에 지급 방식</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/about/history" >
+                      <span>FEMA의 역사</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/about/contact" >
+                      <span>당사 연락처</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/676692" >
+                      <span>Your Civil Rights</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ko/media">
+                        <span>뉴스 &amp; 멀티미디어</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/about/news-multimedia/blog" >
+                      <span>블로그</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/about/news-multimedia/events" >
+                      <span>이벤트</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/about/news-multimedia/fact-sheets" >
+                      <span>Fact Sheets</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/642900" >
+                      <span>FEMA Live</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/470470" >
+                      <span>Mobile Products</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/about/news-multimedia/newsletters" >
+                      <span>Newsletters</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/about/news-multimedia/press-releases" >
+                      <span>보도자료</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/634317" >
+                      <span>Podcast</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/about/news-multimedia/social-media" >
+                      <span>소셜 미디어</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/686266" >
+                      <span>Video Updates</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ko/about/reports-and-data">
+                        <span>보고서 &amp; 데이터</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/about/reports-and-data/annual-reports" >
+                      <span>연 보고서</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/about/reports-and-data/data-visualizations" >
+                      <span>데이터 가시화</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/about/reports-and-data/disaster-relief-fund-monthly-reports" >
+                      <span>Disaster Relief Fund Reports</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/about/reports-and-data/guidance" >
+                      <span>FEMA 지침 문서</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/about/glossary" >
+                      <span>Glossary</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/about/reports-and-data/openfema" >
+                      <span>오픈FEMA</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/497395" >
+                      <span>회복 분석 &amp; 계획 도구</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ko/node/640360">
+                        <span>FEMA in Action</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/we-are-fema" >
+                      <span>We Are FEMA</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/655046" >
+                      <span>National Resilience Month</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/625541" >
+                      <span>9/11: We Remember and Honor</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                                            </ul>
+          </div>
+        </div>
+    </ul>
+  
+
+
+                  
+                
+                <li class="usa-nav__primary-item ">
+                                                                                                                                                                                                          <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="megamenu-6">
+                      <span>우리와 함께 일하세요</span>
+                    </button>
+                  
+                                                      <ul id="megamenu-6" class="usa-nav__submenu usa-megamenu hide-on-load">
+                      <div class="grid-row grid-gap-4">
+              <div class="usa-col">
+                <ul class="usa-nav__submenu-list">
+                
+                
+              
+              
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ko/careers">
+                        <span>경력</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/367388" >
+                      <span>FEMA의 근무 혜택 직급 유형 &amp; 고용 경로</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/367396" >
+                      <span>직급 유형 &amp; 고용 경로</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/careers/apply" >
+                      <span>지원 방식</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/careers/recruitment-events" >
+                      <span>Recruitment Events</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/367344" >
+                      <span>FEMA 직원 리소스</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ko/businesses-organizations">
+                        <span>기업과 조직</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/business-industry/doing-business" >
+                      <span>FEMA와 비즈니스하기</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/business-industry/national-business-emergency-operations-center" >
+                      <span>국가 기업 비상 운영 센터</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                
+                <li class="usa-nav__submenu-item ">
+                                        <a href="/ko/node/543624">
+                        <span>Partnerships</span>
+                      </a>
+                  
+                                              
+              
+              
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/666012" >
+                      <span>Community Disaster Resilience Zones</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/634890" >
+                      <span>Emergency Manager Exchange</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/543627" >
+                      <span>Federal Agency Mission Assignments</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/680385" >
+                      <span>Social Scientist Partnership</span>
+                    </a>
+                  
+                
+                <li class="usa-nav__submenu-item">
+                  
+                                      <a href="/ko/node/481105" >
+                      <span>회복 국가 파트너십 네트워크</span>
+                    </a>
+                  
+                                </ul>
+</div>
+<div class="usa-col">
+<ul class="usa-nav__submenu-list">
+
+
+
+                  
+                                            </ul>
+          </div>
+        </div>
+    </ul>
+  
+
+
+                  
+                                                </ul>
+              
+
+
+
+
+<div id="block-fema-uswds-applyforassistancemenulink" class="block block-block-content block-block-contenta8a31980-478a-4fde-b733-02786b2a8516">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><a class="header-apply-link" target="_blank" href="https://www.disasterassistance.gov/help-desk/korean">온라인 지원 신청하기</a></div>
+      
+  </div>
+<div id="block-mobileusasearch" class="block block-block-content block-block-content624eeb3f-c865-4864-9a90-a907cf42fe37">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="mobile-usa-search"/></div>
+      
+  </div>
+<div class="language-switcher-language-url block block-language block-language-blocklanguage-interface" id="block-languageswitcher" role="navigation">
+  
+    
+      
+
+<ul class="links usa-nav__primary usa-accordion">
+    <li class="usa-nav__primary-item  ">
+      <button class="usa-accordion__button usa-nav__link usa-current " aria-expanded="false"
+              aria-controls="menu-toggle-16742581b6604f">
+            <span>
+              <img src="/profiles/femad8_gov/themes/fema_uswds/images/world-icon.png" alt="world globe">
+            </span>
+        <span class="language-block-language-text">언어 설정</span>
+      </button>
+      <ul id="menu-toggle-16742581b6604f" class="usa-nav__submenu hide-on-load "><li class="links usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/disaster/how-declared" class="language-link language-en" hreflang="en" data-drupal-link-system-path="node/378213">English</a></li><li class="links usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/es/disaster/how-declared" class="language-link language-es" hreflang="es" data-drupal-link-system-path="node/378213">Español</a></li><li class="links usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/fr/node/378213" class="language-link language-fr" hreflang="fr" data-drupal-link-system-path="node/378213">Français</a></li><li class="links usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/ht/disaster/how-declared" class="language-link language-ht" hreflang="ht" data-drupal-link-system-path="node/378213">Kreyòl</a></li><li class="links usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/vi/disaster/how-declared" class="language-link language-vi" hreflang="vi" data-drupal-link-system-path="node/378213">Tiếng Việt</a></li><li class="links usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/zh-hans/disaster/how-declared" class="language-link language-zh-hans" hreflang="zh-hans" data-drupal-link-system-path="node/378213">简体中文</a></li><li class="links usa-nav__primary usa-accordion usa-nav__submenu-item"><a href="/ko/disaster/how-declared" class="language-link language-ko is-active" hreflang="ko" data-drupal-link-system-path="node/378213" aria-current="page">한국어</a></li></ul>
+    </li>
+  </ul>
+  </div>
+
+  </div>
+
+        
+                  <div class="usa-nav__secondary">
+              <div class="region region-secondary-menu">
+    <div id="block-desktopusasearch" class="block block-block-content block-block-contentf73c1d55-3d47-49ea-bd6e-92bf46c00b9c">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="desktop-usa-search"/></div>
+      
+  </div>
+
+  </div>
+
+          </div>
+        
+              </div>
+          </nav>
+
+        <div class="region region-highlighted">
+    <div class="views-element-container block block-views block-views-blockapply-for-assistance-block-1" id="block-views-block-apply-for-assistance-block-1">
+  
+    
+      <div><div class="view view-apply-for-assistance view-id-apply_for_assistance view-display-id-block_1 js-view-dom-id-5abff1bf9221267dd5b4521cfc9f27854edc3c4285084eb6aef3f52fff4ef45a">
+  
+    
+      
+  
+          </div>
+</div>
+
+  </div>
+
+  </div>
+
+</header>
+<div tabindex="-1" id="main-content"></div>
+
+  
+<!-- Archived content banner -->
+<main class="usa-section">
+  <div class="grid-row grid-gap">
+    <div class="grid-col-12">
+      
+
+      
+    </div>
+  </div>
+
+  <!-- Home page location search -->
+  
+
+  <div class="grid-row-container">
+
+    <!-- Super Hero (full-width hero) -->
+    
+    <!-- Location Pages (full-width hero) -->
+
+    
+    <div class="region-content-container">
+
+      <div class="grid-container">
+        <div class="grid-row">
+
+          <!-- Sidebar First  -->
+          <div class="sidebar-menu desktop:grid-col-3 match-title" role="navigation"
+               aria-label="section navigation">
+            
+                <div class="sidebar_first-container">
+          <aside class="sidebar_first-aside">
+            <div class="grid-container">
+                <div class="views-element-container block block-views block-views-blockdisaster-sidebar-block-1" id="block-views-block-disaster-sidebar-block-1">
+  
+    
+      <div><div class="view view-disaster-sidebar view-id-disaster_sidebar view-display-id-block_1 js-view-dom-id-720ad5c50ee948a20e5643554bfc3a4f12a7e679b2c9c91ccf300ad2a934b5c0">
+  
+    
+      
+  
+          </div>
+</div>
+
+  </div>
+
+
+    
+            
+    <ul class="usa-sidenav menu_name-main  menu-level-0">
+                
+                                        
+                                                                                                                                                                                
+          
+                    
+                                          <li id="menu_link_content:631676e3-5551-439f-9cee-babef5e0a11b" class="usa-sidenav__item on-active-level usa-current-li  ">
+
+              
+                                  
+            
+    <ul class="usa-sidenav__sublist  menu-level-1">
+                
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                                                                                                                                                                                                          
+          
+                    
+                                          <li id="menu_link_content:e895e6ac-d82d-40a9-925e-5b829d5137d4" class="usa-sidenav__item on-active-level usa-current-li  ">
+
+              
+                                  
+            
+    <ul class="usa-sidenav__sublist  menu-level-2">
+                
+                                        
+                    
+          
+                    
+                            
+                                        
+                                                                                                                                                  
+          
+                                          
+                                                                              <li id="menu_link_content:631676e3-5551-439f-9cee-babef5e0a11b" class="usa-sidenav__item usa-grandparent-li inactive">
+                  <a >
+                    <span>재난과 지원</span>
+                  </a>
+                </li>
+              
+              
+                                                                                                                                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                                                                                                                    
+
+              <li class="sidebar_menu_parent" aria-expanded="false" aria-controls="menu_link_content:e895e6ac-d82d-40a9-925e-5b829d5137d4-parent menu_link_content:7a6b7373-b4a1-4296-818b-6e7a2d3e2afe menu_link_content:96d639be-511f-4340-b72c-3e7300596552 menu_link_content:733dd265-4bd1-44b7-a231-7b25c101ffcd menu_link_content:01292788-0875-4c51-ae65-1622389b1475 menu_link_content:04d00db1-a271-4fc0-9ac2-0eae3bc33270 menu_link_content:da11fc1d-da4e-44fc-aeed-a299c3233b2d menu_link_content:a803ab09-01ab-4353-ad9f-7b3f11dbd28c menu_link_content:5ea786f5-17ea-43f7-bf8c-87ebffea237d">재난</li>
+                          <li id="menu_link_content:e895e6ac-d82d-40a9-925e-5b829d5137d4-parent" class="usa-sidenav__item usa-sibling-li usa-parent-li on-active-level parent-sibling ">
+                <a  href="/ko/disaster" >
+                  <span>재난</span>
+                </a>
+              </li>
+
+                      <li id="menu_link_content:7a6b7373-b4a1-4296-818b-6e7a2d3e2afe" class="usa-sidenav__item on-active-level usa-current-li indented ">
+
+                              <a  href="/ko/disaster/how-declared"  class="usa-current">
+                  <span>재난 선언 방법</span>
+                </a>
+              
+                                  
+            
+    <ul class="usa-sidenav__sublist is_end_of_active_trail menu-level-3">
+                
+                                        
+                    
+          
+                    
+                                          <li id="menu_link_content:10334619-a15c-4880-af5c-f4b000e2dd88" class="usa-sidenav__item on-active-level  indented child">
+
+                              <a  href="/ko/node/619903"  class="">
+                  <span>Preliminary Damage Assessments</span>
+                </a>
+              
+              
+            </li>
+                  
+                                        
+                    
+          
+                    
+                                          <li id="menu_link_content:af4fb515-cbe9-48cd-8e68-c22aa25515d9" class="usa-sidenav__item on-active-level  indented child">
+
+                              <a  href="/ko/node/462497"  class="">
+                  <span>Request For Presidential Disaster Declaration</span>
+                </a>
+              
+              
+            </li>
+                  
+                                        
+                    
+          
+                    
+                                          <li id="menu_link_content:4494bf68-f0ec-433b-8ca5-3ca8ce0ec559" class="usa-sidenav__item on-active-level  indented child">
+
+                              <a  href="/ko/node/401147"  class="">
+                  <span>Individual Assistance Declaration Factors</span>
+                </a>
+              
+              
+            </li>
+                  
+                                        
+                    
+          
+                    
+                                          <li id="menu_link_content:06d7dd4b-6e1e-4c94-be0b-185af610655f" class="usa-sidenav__item on-active-level  indented child">
+
+                              <a  href="/ko/node/401150"  class="">
+                  <span>Tribal Declarations Pilot Guidance</span>
+                </a>
+              
+              
+            </li>
+                  
+                
+                                </ul>
+
+              
+            </li>
+                  
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                                    <li id="menu_link_content:96d639be-511f-4340-b72c-3e7300596552" class="usa-sidenav__item usa-sibling-li on-active-level indented">
+                <a  href="/ko/locations" >
+                  <span>Search Your Location</span>
+                </a>
+              </li>
+                                                                      <li id="menu_link_content:733dd265-4bd1-44b7-a231-7b25c101ffcd" class="usa-sidenav__item usa-sibling-li on-active-level indented">
+                <a  href="/ko/node/670194" >
+                  <span>Declarations for Tribal Nations</span>
+                </a>
+              </li>
+                                                <li id="menu_link_content:01292788-0875-4c51-ae65-1622389b1475" class="usa-sidenav__item usa-sibling-li on-active-level indented">
+                <a  href="/ko/disaster/authorities" >
+                  <span>재난 당국</span>
+                </a>
+              </li>
+                                                <li id="menu_link_content:04d00db1-a271-4fc0-9ac2-0eae3bc33270" class="usa-sidenav__item usa-sibling-li on-active-level indented">
+                <a  href="/ko/disaster/historic" >
+                  <span>기존 재난</span>
+                </a>
+              </li>
+                              
+                                                            <li id="menu_link_content:da11fc1d-da4e-44fc-aeed-a299c3233b2d" class="usa-sidenav__item usa-sibling-li on-active-level parent-sibling">
+                  <a  href="/ko/disaster/current" >
+                    <span>현재의 재난들</span>
+                  </a>
+                </li>
+                                                        <li id="menu_link_content:a803ab09-01ab-4353-ad9f-7b3f11dbd28c" class="usa-sidenav__item usa-sibling-li on-active-level parent-sibling">
+                  <a  href="/ko/assistance" >
+                    <span>재난 후 도움받기</span>
+                  </a>
+                </li>
+                                                        <li id="menu_link_content:5ea786f5-17ea-43f7-bf8c-87ebffea237d" class="usa-sidenav__item usa-sibling-li on-active-level parent-sibling">
+                  <a  href="/ko/disaster/recover" >
+                    <span>Tools to Recover</span>
+                  </a>
+                </li>
+                                                                            </ul>
+
+              
+            </li>
+                  
+                
+              </ul>
+
+              
+            </li>
+                  
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                                        
+                    
+          
+                    
+                            
+                
+                                </ul>
+
+
+
+
+             </div>
+          </aside>
+    </div>
+
+
+                      </div>
+          <div class="desktop:grid-col-9" role="main">
+
+            <!-- Hero (within content area) -->
+            
+
+                        <div class="region-content">
+            <div class="grid-container">
+                <div data-drupal-messages-fallback class="hidden"></div><div id="block-fema-uswds-pagetitle-2" class="block block-core block-page-title-block">
+  
+    
+      
+  <h1 class="uswds-page-title page-title"><span class="field field--name-title field--type-string field--label-hidden">재난 선언 방법</span>
+</h1>
+
+
+  </div>
+<div class="views-element-container block block-views block-views-blocktranslations-available-block-1" id="block-views-block-translations-available-block-1">
+  
+    
+      <div><div class="view view-translations-available view-id-translations_available view-display-id-block_1 js-view-dom-id-85f6784c19a1360046e907e9818929c440257cd8be9270de42b8e4fbcd7bb656">
+  
+    
+      
+      <div class="view-content">
+      <div class='incident-view-page-in'>
+<div>
+<img src="/profiles/femad8_gov/themes/fema_uswds/images/world-icon-black.png" alt="world globe">
+<ul>
+    <li><span><a href="/disaster/how-declared">English</a></span>
+
+</li>
+    <li><span><a href="/es/disaster/how-declared">Español</a></span>
+
+</li>
+    <li><span><a href="/ht/disaster/how-declared">Kreyòl</a></span>
+
+</li>
+    <li><span class="translation-first"><span><a href="/ko/disaster/how-declared">한국어</a></span></span>
+
+
+</li>
+    <li><span><a href="/vi/disaster/how-declared">Tiếng Việt</a></span>
+
+</li>
+    <li><span><a href="/zh-hans/disaster/how-declared">简体中文</a></span>
+
+</li>
+</ul>
+</div>
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+<div id="block-fema-uswds-mainpagecontent-2" class="block block-system block-system-main-block">
+  
+    
+      <article>
+
+  
+    
+
+  
+  <div class="content-inner-container">
+
+    
+    
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item">
+<p>이 페이지에서는 스태포드법(Stafford Act) 선언 과정에 대해서 설명하며, 공식 선언절차에 관심이 있는 비상사태 매니저, 선출직 공무원, 언론 및 이해관계자를 대상으로 합니다.&nbsp; 모든 비상사태 및 중대 재난 선언은 오로지 미국 대통령의 재량에 따라이루어집니다.</p>
+
+
+
+<p><a href="/disasters/stafford-act">로버트 스태포드 재난 구제 및 비상 부조법(Robert T. Stafford Disaster Relief and Emergency Assistance Act)인</a>미국법(42 U.S.C.) §§ 5121-5207 및 §401 조항의 일부 규정: “대통령에게 중대 재난이 발생하였음을 선언하도록 하는 모든 요청은 해당 주의 주지사가 해야 한다.” &nbsp; 그러한 주로서 컬럼비아 특별구(DC), 푸에르토리코, 버진제도, 괌, 미국령 사모아, 북 마리아나 제도 등이 포함됩니다. 마셜제도와 마이크로네시아 연방도 자유연합협정(Compacts of Free Association)을 통해 선언을 요청하고지원을 받을 수 있습니다.</p>
+
+
+
+<p>샌디복구개선법(Sandy Recovery Improvement Act)의 결과로, 연방 정부가 인정한인디언 부족 정부도 이제는 대통령에게 직접 선언을 요청할 수 있습니다. FEMA는부족의 요구에 대한 상세하고 구체적인 지침을 제시하기 위해&nbsp;<a href="/disaster-assistance/disasters/tribal-declarations">부족 선언 시범 지침(Tribal Declarations Pilot Guidance)</a>을 작성하였습니다.</p>
+
+
+
+<p>FEMA는 선언 절차를 연방규정 44 C.F.R. 파트(Part) §206,&nbsp;<a aria-label="%s (opens in a new tab)" rel="noreferrer noopener" href="https://www.ecfr.gov/cgi-bin/text-idx?SID=5a67508b6441bcdafc43c537b610741c&amp;mc=true&amp;node=sp44.1.206.b&amp;rgn=div6" target="_blank">서브파트(Subpart) B</a>에 성문화하였습니다</p>
+
+
+
+<h2>예비 피해 평가</h2>
+
+
+
+<p>해당 지역의 복구 지원을 위해 대통령 재난 선언의 필요성이 명백한 경우, 주 또는인디언 부족 정부는 해당 FEMA 지역사무소에 연락하여 연방/주/부족 공동 예비피해평가(PDA)를 요구해야 합니다. &nbsp;가능하면 지방정부 대표도 포함되어야 합니다.팀은 공동 작업을 통해 재난의 정도, 개인 및 공공 시설에 대한 영향, 필요한 연방 지원 유형을 결정하기 위해 해당 지역에 대한 철저한 평가를 수행합니다. &nbsp;그러한 정보는 주지사 또는 족장의 요청서에 포함되며, 효과적 대응 작업을 위해서는 주정부나 기타 지방정부, 또는 인디언 부족 정부의 역량으로는 부족하고, 보완적인 연방의지원이 필요함을 나타냅니다.</p>
+
+
+
+<a class="fema-link undefined" href="/disasters/preliminary-damage-assessment-reports"><p>예비적 피해 평가 보고서 보기</p></a>
+
+
+
+<h2>주정부 또는 인디언 부족 정부의 자원 부족</h2>
+
+
+
+<p>예비피해평가(PDA)가 완료되고 주 또는 인디언 부족 정부에서 피해가 해당 자원수준을 초과한다고 판단할 경우, 주지사 또는 부족장은 FEMA 지역 사무소를 통해대통령에게 재난 지역 선언 요청서를 제출할 수 있습니다.&nbsp; 그 요청의 일환으로서,주지사 또는 부족장은 주 또는 부족 법률에 따라 적절한 조치를 취해야 하며, 주 또는 부족 비상 계획을 실행하도록 지시해야 합니다. &nbsp;주지사 또는 부족장은 재난이가져다주는 결과를 완화하기 위해, 투입했던 또는 투입 예정인 주 및 지역/인디언부족 정부 자원의 물량과 성격에 관한 정보를 제공하고, 민간 부문 및 공공 부문의피해 정도와 심각성의 추정치를 제공하고, <a href="/disasters/stafford-act">스태포드법</a> 에 근거하여 필요한 지원의유형과 물량 추정치를 제공해야 합니다. &nbsp;또한 주지사나 부족장은 진행 중인 재난에대해 주 및 지방 정부나 인디언 부족 정부의 채무와 지출 내역이 모든 해당 비용 분담 요건을 준수하도록 해야 합니다.</p>
+
+
+
+<p>일반적으로 PDA(예비피해평가서)는 주지사나 부족장이 중대 재난 선언 요청서를제출하기 전에 작성됩니다. &nbsp;하지만, 분명히 심각한 또는 재앙적 사고가 발생할 경우, 주지사나 부족장의 요청서를 PDA 작성 전에 제출할 수 있습니다.1 이 경우 중대재난의 범위는 일반적으로 공공 부조 범주 A 또는 B(나중에 직접 연방 부조(DFA)로 제한될 수 있음) 및 위해완화 부조로 제한됩니다.&nbsp; 경험상 주거지에 대한 피해 수준이 압도적으로 높은 사건의 경우, 선언 내용에 개인 부조(Individual Assistance)가 포함될 수있습니다. &nbsp; PDA를 작성하는 동안 나중에 추가적 지원 형태를 추가할 수도 있습니다.</p>
+
+
+
+<p><sup>1</sup>44 C.F.R. §206.36</p>
+
+
+
+<h2>선언의 유형</h2>
+
+
+
+<p><a href="/disasters/stafford-act">스태포드법</a> 에 명시된 재난 선언 유형에는 두 가지가 있는데 그것은 비상 선언<br>(emergency declaration) 및 중대 재난 선언(major disaster declaration)입니다.2 이 두가지 선언 유형 모두, 대통령이 보완적 연방 재난 부조를 제공할 수 있는 근거가 됩니다. &nbsp;하지만, 그 두 가지 선언 유형과 관련된 사고, 부조의 범위와 금액은 다릅니다.</p>
+
+
+
+<p></p>
+
+
+
+<h3>비상 선언</h3>
+
+
+
+<p>대통령은 연방의 지원이 필요하다고 판단할 경우 해당 경우나 상황에 대해 비상사태를 선언할 수 있습니다. &nbsp;비상사태를 선언하면 생명, 재산, 공중보건 및 안전을 보호하며 미국의 해당 지역에서의 재앙적 위협을 완화하거나 방지하기 위해 비상 서비스를 하고 있는 주정부 및 지방정부, 또는 인디언 부족 정부의 노력을 보완하게됩니다. &nbsp;단일 비상사태를 위해 제공되는 총 지원 금액은 500만 달러를 초과할 수 없습니다. 이 금액이 초과될 경우 대통령은 의회에 보고해야 합니다.</p>
+
+
+
+<h4>요건<sup>3</sup></h4>
+
+
+
+<p>영향을 받은 주의 주지사 또는 부족장은 사고 발생 후 30일 내에 해당 지역 청장을통해 대통령에게 요청서를 제출해야 합니다.&nbsp; 그 요청 내용은 해당 상황이 해당 주,지방 정부, 인디언 부족 정부의 역량을 초과하고, 재산 보호, 공중 보건 및 안전 유지를 위해 또는 재난의 위협을 완화하거나 방지하기 위해 연방의 보완적인 비상 지원어이 필요하다는 조사 결과를 근거로 해야 합니다.&nbsp; 또한, 요청에는 아래 내용이 포함되어야 합니다.</p>
+
+
+
+<ul><li>그 요청의 일환으로, 주지사 또는 부족장이 주 또는 부족 법률에 따라 적절한조치를 취했으며, 주 또는 부족 비상 계획을 실행하도록 지시하였다는 확인.</li><li>주, 지방 또는 인디언 부족 정부가 비상사태 완화를 위해 수행한 노력과 활용한 자원에 대한 설명.</li><li>비상사태 대응을 위해 여타 연방 당국이 수행한 노력과 활용한 자원에 대한설명.</li><li>필요한 추가적 연방 지원의 유형과 정도에 대한 설명.</li></ul>
+
+
+
+<h4>비상 선언 시 이용 가능한 지원</h4>
+
+
+
+<ul><li><a href="/assistance/public">공공 부조(PA)</a>&nbsp;– 비상 선언에 근거하여 범주 A(잔해 제거) 및 B(비상 보호 조치)만 승인됩니다. 비상 선언에서 범주 C-G(영구적 공사)는 이용할 수 없습니다.&nbsp; 비상 선언에는 범주 B만 포함된 경우가 많으며, 일반적으로 DFA(직접 연방 지원)로 제한되며, 재정 지원의 중대한 필요성을 나타내는 피해 평가는 제외됩니다. &nbsp; 이러한 지원은 일반적으로 연방 75%, 비연방 25%의 비용 분담 기준으로 제공됩니다.</li><li><a href="/assistance/individual">개인 부조(IA)</a>&nbsp;– ‘개인 및 가구 프로그램(IHP)’은 비상 선언에 근거하여 승인될 수 있는 유일한 형태의 개인부조이며, 비상 선언에서 개인 및 가구 프로그램(IHP)을 승인하는 경우는 드뭅니다.&nbsp; IHP(개인 및 가구 프로그램)에 근거한주택 지원은 100% 연방 부담 하에 제공되지만, IHP에 근거한 기타 필요사항지원(Other Needs Assistance)을 위해서는 25%의 비연방 비용 분담이 요구됩니다.</li><li>비상 선언에 근거하여&nbsp;<a href="/grants/mitigation">위해완화 보조금프로그램(Hazard Mitigation Grant Program, HMGP)</a>&nbsp;- 을 이용할 수는 없습니다.</li></ul>
+
+
+
+<h3>예비 재난 비상 선언<sup>4</sup></h3>
+
+
+
+<p>주지사나 부족장은 중대 재난으로 이어질 수 있는 파괴적 사고가 발생하기 전에 또는 임박한 영향을 예상하여 비상 선언을 요구할 수 있습니다.&nbsp; 이러한 요구는 비상선언 요구에 대한 모든 법적, 규제적 요건을 충족해야 합니다.&nbsp; 요구 내용은 영향이발생하기 전에 중대한 비상 보호 조치 필요성이 존재하고 이것이 주, 해당 지역 정부나 인디언 부족 정부의 역량을 초과함을 설명하고, 직접연방지원(DFA)을 통해충족될 수 있는, 구체적인 미충족 비상 대응의 필요성을 명시해야 합니다.&nbsp; 직접연방지원(DFA)에는 인력, 장비, 물자, 대피 지원 등이 포함될 수 있습니다.&nbsp; 자산의 선제적 위치이동에는 일반적으로 선언이 요구되지 않습니다.&nbsp; 예비 재난 비상 선언에따라 제공되는 지원은 일반적으로, 직접연방지원(DFA)으로 제한되는 범주 B(비상보호 조치)입니다.&nbsp; 추가적 지원 유형이 필요한 경우 FEMA는 피해 평가서나 검증된 비용 추산서를 요구할 수 있습니다.</p>
+
+
+
+<h3>연방에 일차적 책임이 있는 비상 선언</h3>
+
+
+
+<p>연방 정부에 일차적 책임이 있는 비상 사태가 발생할 경우 대통령은 해당 주지사 또는 해당 부족장의 요청 없이 비상 사태를 선언할 수 있습니다.&nbsp; 이러한 비상 사태 선언을 하더라도 주지사 또는 부족장이 그 사건으로 인해 야기된 다른 미충족 요구에대해 나중에 중대 재난 선언을 요구하는 것을 막을 수는 없습니다.</p>
+
+
+
+<h3>중대재난선언(Major Disaster Declarations)</h3>
+
+
+
+<p>대통령은 허리케인, 토네이도, 폭풍, 고수위, 풍랑, 해일, 쓰나미, 지진, 화산 폭발, 산사태, 이류, 눈보라, 가뭄 또는 원인 불문하고 화재, 홍수, 폭발 등을 포함한 모든 자연 사건이 주와 지방 정부의 공동 대응 능력을 초과하는 정도의 심각한 피해를 야기했다고 판단할 경우 중대 재난 선언을 할 수 있습니다.&nbsp; 중대 재난 선언을 하면 긴급공사 및 영구적 공사에 필요한 자금을 포함하여 개인 및 공공 기반시설에 대해 광범위한 연방 지원 프로그램을 제공합니다.</p>
+
+
+
+<h4>요건<sup>5</sup></h4>
+
+
+
+<p>영향을 받은 주의 주지사 또는 부족장은 사고 발생 후 30일 내에 해당 지역 청장을통해 대통령에게 요청서를 제출해야 합니다.&nbsp; 그 요청 내용은 해당 상황이 해당 주,지방 정부, 또는 인디언 부족 정부의 역량을 초과하고, 연방의 보완적인 지원이 필요하다는 조사 결과를 근거로 해야 합니다.&nbsp; 또한, 요청에는 아래 내용이 포함되어야 합니다.</p>
+
+
+
+<ul><li>주지사 또는 부족장이 주 또는 부족 법률에 따라 적절한 조치를 취했으며, 주또는 부족 비상 계획을 실행하도록 지시하였다는 확인.</li><li>공공 및 민간 부문에 대한 피해 금액과 정도의 추산.</li><li>주, 지방 또는 인디언 부족 정부가 재난 완화를 위해 수행한 노력과 활용한 자원에 대한 설명.</li><li>필요한 스태포드법(Stafford Act) 지원의 유형과 금액의 예비 추산.</li><li>주지사나 부족장은 주정부 및 지방 정부나 인디언 부족 정부가 모든 해당 비용 분담 요건을 준수할 것이라는 주지사 또는 부족장의 확인서.</li></ul>
+
+
+
+<h4>중대재난선언(Major Disaster Declarations) 하에서의 이용 가능한 지원</h4>
+
+
+
+<p>하지만, 모든 재난에 대해 모든 프로그램이 가동되는 것은 아닙니다.&nbsp; 승인 대상 프로그램의 결정은 주지사나 부족장의 요구서에 명시된 지원 유형과 공동 예비피해평가(PDA) 및 후속 예비피해평가(PDA) 기간에 파악된 필요성을 바탕으로 이루어집니다. &nbsp;FEMA의 재난 지원 프로그램은 다음과 같습니다.</p>
+
+
+
+<ul><li> <a href="/assistance/individual">개인부조(Individual Assistance)</a>&nbsp; - 아래가 포함될 수 있는, 개인 및 가구에 대한지원:<ul><li>개인 및 가족 프로그램</li><li>위기 상담 프로그램</li><li>재난 사례 관리</li><li>재난 실업 부조</li><li>재난 법률 서비스</li><li>재난 보충 영양 지원 프로그램 </li></ul></li><li> <a href="/assistance/public">공공 부조(Public Assistance)</a>&nbsp; - 긴급 공사 및 재난 피해 시설의 수리, 교체를 위해 주, 부족, 지방 정부 및 특정 민간 비영리 단체에 제공하는 지원으로서 아래 범주가 포함될 수 있습니다.<ul><li>A - 잔해 제거</li><li>B - 비상 보호 조치</li><li>C – 도로 및 교량</li><li>D – 수자원 관리 시설</li><li>E – 건물 및 장비</li><li>F – 유틸리티(전기/수도/가스)</li><li>G – 공원, 레크리에이션 및 기타 시설</li></ul></li><li> <a href="/grants/mitigation">위해완화지원(Hazard Mitigation Assistance)</a>&nbsp; – 생명과 재산을 자연의 위해로부터 장기적으로 예방 또는 축소하기 위한 조치를 취하도록 주, 부족, 지방 정부및 특정 민간 비영리 단체에 제공하는 지원.</li></ul>
+
+
+
+<p>평가요소: &nbsp; FEMA는 중대재난 요청을 평가하여 대통령에게 안을 올리는 데 있어서다음의 요소들6을 고려합니다.<sup>6</sup></p>
+
+
+
+<p>(a)&nbsp;&nbsp; (a) 공공부조 프로그램 </p>
+
+
+
+<ol><li>예상 지원 비용 – FEMA는 인구 대비 연방 및 비연방 공공 부조 추정 비용을평가하여 1인당 영향의 척도를 산출합니다. FEMA는 1인당 금액을 재난의규모가 연방 지원을 담보할 정도로 심각하고 중대함을 나타내는 지표로 사용하며, 소비자 물가 지수를 기준으로 매년 이 수치를 조정합니다.</li><li>국소적 영향 - FEMA는 카운티 및 지방 정부 차원뿐만 아니라 아메리칸 인디언 및 알래스카 원주민 부족 정부 차원에서도 재난의 영향을 평가합니다. 그이유는 주 전체의 1인당 요건이 충족되지 않은 경우에도 피해가 특별히 집중된 곳이 있어서 연방 지원이 필요한 경우도 있기 때문입니다. 주요 도로, 교량, 공공 건물 등의 주요 시설이 영향을 받거나 특정 구역의 1인당 영향이 극도로 높은 경우에 특히 그렇습니다. 예를 들어, 전반적인 1인당 영향은 낮더라도 특정 구역의 피해는 1인당 수십 또는 수백 달러에 이를 수 있습니다.</li><li>유효한 보험의 처리 – FEMA는 재난 시 법률 및 규정의 요건에 따라 유효하거나 유효했어야 하는 보험 보장 금액을 고려하여 예상 지원금에서 그 금액만큼 감액합니다.</li><li>위해 완화 – FEMA는 완화조치를 인정하고 장려하기 위해, 완화조치가 재난피해 감소에 기여한 정도를 고려합니다. 이는 완화조치 덕분에 추정 공공 부조 피해액이 1인당 지표 미만으로 떨어진 재난에서 특히 의미가 있습니다.</li><li>최근의 다수 재난 발생 – 또한 FEMA는 전반적인 영향을 보다 잘 평가하기위해 지난 12개월 동안의 재난 이력을 고려합니다. FEMA는 스태포드법에따른 선언뿐만 아니라 주지사 또는 부족장의 선언 및 그들이 자체 자금을 지출한 정도까지 고려합니다.</li><li>기타 연방기관 지원 프로그램 – 또한 FEMA는 다른 연방기관의 프로그램도고려하는데, 때로는 그들의 지원 프로그램이 재난으로 발생한 요구 사항을보다 적절하게 충족시키기 때문입니다.</li></ol>
+
+
+
+<p>(b)&nbsp; (b) 개인 부조 프로그램 </p>
+
+
+
+<ol><li>주 재정 역량 및 자원 가용 상태</li><li>영향을 받은 미보험 주택 및 동산 재산의 손실</li><li>재난의 영향을 받은 인구 특성</li><li>지역사회 기반시설에 대한 영향</li><li>사상자 수</li><li>재난 관련 실업</li></ol>
+
+
+
+<p>추가 정보는<a href="/disasters/individual-assistance">개인 부조 선언 요소 지침</a>을 참조하십시오.</p>
+
+
+
+<p><sup>2</sup>FEMA는 규정을 통해 세 번째 선언 유형 즉 화재관리 지원보조금(Management Assistance Grant, FMAG) 선언을 마련하였습니다.&nbsp; 이 프로세스는 비상 및 중대 재난 프로세스와는 크게 다릅니다.&nbsp;<a href="/assistance/public/fire-management-assistance">화재관리 지원보조금 프로그램</a>에 관한 자세한 내용을 읽어보십시오..</p>
+
+
+
+<p><sup>3</sup>연방규정 44 (C.F.R.) §206.35</p>
+
+
+
+<p><sup>4</sup>이 섹션에서는 예비 재난 비상 선언을 고려할 수 있는 상황과 스태포드법 섹션502(c) (42 U.S.C. § 5192(c))의 요건에 따라 이용 가능한 지원 유형에 관한 지침을 제시합니다.</p>
+
+
+
+<p><sup>5</sup>연방규정 44 (C.F.R.) §206.35</p>
+
+
+
+<p><sup>6</sup>연방규정 44 (C.F.R.) §206.48. 이 규정에는 “재난별 평균 부조 금액(Average Amount of Assistance per Disaster)”이라는 제목의 차트가 포함되어 있습니다. &nbsp; 이 차트는 오래된 것이므로 선언 절차에 더 이상 적합하지 않습니다.</p>
+
+
+
+<h2>이의신청</h2>
+
+
+
+<p>주지사 또는 부족장은 중대재난 선언 또는 비상 선언 요구의 거절에 대해 이의신청을 할 수 있습니다.&nbsp; 이의신청서는 거절 서신의 날짜로부터 30일 내에 제출해야 하고, 보충적 연방 지원의 필요성을 정당화하는 추가 정보가 포함되어야 합니다.</p>
+
+
+
+<h2>선언 후 조치</h2>
+
+
+
+<p>추가 지정: &nbsp; 주지사, 주지사의 공식 대리인(GAR) 또는 부족장은 선언 후 30일 이내,또는 사고 기간 종료 시점 중에서 늦은 시점까지 추가로 카운티 및 프로그램을 지정해줄 것을 요구할 수 있습니다.&nbsp; 주지사, 그 대리인 또는 부족장은 30일 기간 내에 연장 필요성을 입증하는 유효한 이유를 제시하여 연장 신청서를 제출할 수 있습니다.</p>
+
+
+
+<p>비용 분담 조정: &nbsp; 공공 부조 비용 분담의 조정 권한은 대통령에게 있습니다. &nbsp; 재난이 매우 특별하여 <a href="/disasters/stafford-act">스태포드법</a>에 근거한 실제 연방의 의무가 행정 비용을 제외하고적격 한도를 충족하거나 초과할 경우, FEMA는 연방 분담금을 공공 부조의 90% 이내로 증액하도록 권고합니다.<sup>7</sup></p>
+
+
+
+<p>이의신청: &nbsp; 선언 후 결정 사항에 대해 일반적으로 1회의 이의신청이 가능합니다.이의신청서는 거절 서신의 날짜로부터 30일 내에 제출해야 합니다.&nbsp; 주 또는 인디언부족 정부의 요구가 있을 경우 FEMA가 이 기한을 연장할 수 있습니다.&nbsp; 연장 신청서는 30일 기한 내에 제출해야 합니다.</p>
+
+
+
+<p><sup>7</sup>연방규정 44 (C.F.R.) §206.47(b).&nbsp; 금액은 전체 도시 소비자들의 소비자 물가지수를사용하여 매년 인플레이션을 조정합니다.</p>
+</div>
+      
+  </div>
+
+</article>
+
+  </div>
+<div class="views-element-container block block-views block-views-blockupdated-date-view-block-block-1" id="block-views-block-updated-date-view-block-block-1">
+  
+    
+      <div><div class="view view-updated-date-view-block view-id-updated_date_view_block view-display-id-block_1 js-view-dom-id-aa86e52e025d7cd39cf3c5366e35ef97f68473a345149d8f4e7df43ebdbd6109">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-changed"><span class="field-content">마지막 업데이트 <time datetime="2023-04-25T18:28:35+00:00" title="화요일, 4월 25, 2023 - 18:28" class="datetime">4월 25, 2023</time>
+
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+
+            </div>
+         </div>
+  
+            <div class="grid-container usa-footer__return-to-top">
+              <a href="#">맨 위로 돌아가기</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+      </div>
+
+
+</main>
+
+<footer class="usa-footer usa-footer--medium" role="contentinfo">
+      <div class="footer-top">
+  <div class="grid-container ">
+    <div class="grid-row">
+              <nav class="" aria-label="Footer navigation">
+            <div class="region region-footer-menu">
+    
+
+    
+                <ul class="grid-row grid-gap add-list-reset">
+        
+    
+                  <li class="usa-footer__primary-content">
+        <a href="/ko/disaster/current" class="usa-footer__primary-link" data-drupal-link-system-path="node/575622">Disasters &amp; Assistance</a>
+      </li>
+      
+    
+                  <li class="usa-footer__primary-content">
+        <a href="/ko/grants" class="usa-footer__primary-link" data-drupal-link-system-path="node/401141">Grants</a>
+      </li>
+      
+    
+                  <li class="usa-footer__primary-content">
+        <a href="/ko/flood-insurance" class="usa-footer__primary-link" data-drupal-link-system-path="node/401548">Floods &amp; Maps</a>
+      </li>
+      
+    
+                  <li class="usa-footer__primary-content">
+        <a href="/ko/emergency-managers/individuals-communities" class="usa-footer__primary-link" data-drupal-link-system-path="node/471175">Emergency Management</a>
+      </li>
+      
+    
+                  <li class="usa-footer__primary-content">
+        <a href="/ko/about" class="usa-footer__primary-link" data-drupal-link-system-path="node/367252">About</a>
+      </li>
+      
+    
+                  <li class="usa-footer__primary-content">
+        <a href="/ko/careers" class="usa-footer__primary-link" data-drupal-link-system-path="node/355775">Work With Us</a>
+      </li>
+      
+    
+                </ul>
+        
+  
+
+
+
+  </div>
+
+        </nav>
+          </div>
+  </div>
+</div>
+
+<div class="footer-middle">
+  <div class="grid-container ">
+    <div class="grid-row">
+
+      <div class="usa-logo footer mobile-lg:grid-col-6">
+        <a class="logo-img" href="/" accesskey="1" title="FEMA logo" aria-label="Home">
+          <img src="/profiles/femad8_gov/themes/fema_uswds/images/fema-logo-blue.svg" alt="FEMA Logo">
+        </a>
+      </div>
+
+      <div class="usa-footer__contact-links mobile-lg:grid-col-6">
+        <div class="usa-footer__social-links grid-row grid-gap-1">
+
+          <div class="grid-col-auto">
+            <a class="usa-social-link usa-social-link--facebook" href="https://www.facebook.com/FEMA/?ref=bookmarks"
+               target="_blank">
+              <span>Facebook</span>
+            </a>
+          </div>
+
+          <div class="grid-col-auto">
+            <a class="usa-social-link usa-social-link--instagram" href="https://www.instagram.com/fema" target="_blank">
+              <span>Instagram</span>
+            </a>
+          </div>
+
+
+          <div class="grid-col-auto">
+            <a class="usa-social-link usa-social-link--twitter" href="https://twitter.com/fema" target="_blank">
+              <span>Twitter</span>
+            </a>
+          </div>
+
+          <div class="grid-col-auto">
+            <a class="usa-social-link usa-social-link--youtube" href="https://www.youtube.com/fema" target="_blank">
+              <span>YouTube</span>
+            </a>
+          </div>
+
+          <div class="grid-col-auto">
+            <a class="usa-social-link usa-social-link--linkedin" href="https://www.linkedin.com/company/fema/"
+               target="_blank">
+              <span>LinkedIn</span>
+            </a>
+          </div>
+
+          <div class="grid-col-auto">
+            <a class="usa-social-link usa-social-link--newsletter" href="https://www.fema.gov/about/newsletters"
+               target="_blank">
+              <span>Newsletter</span>
+            </a>
+          </div>
+
+        </div>
+
+        <div class="contact-link"><a href="/about/contact">Contact FEMA</a> </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="footer-bottom">
+
+        <div class="region region-footer-secondary">
+    <div id="block-footeragencyinformation" class="block block-block-content block-block-contentcd38ff98-fe63-4d86-84f6-54f0d07335de">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="grid-row">
+<div class="footer-menu-container">
+<div class="footer-menu-block">
+<ul class="footer-menu flex-wrap">
+<li><a href="/ko/accessibility">접근성</a></li>
+<li><a href="/ko/about/reports-and-data/annual-reports">책임감</a></li>
+<li><a href="/ko/careers">경력</a></li>
+<li><a href="/ko/about/offices/equal-rights/civil-rights">공민권</a></li>
+<li ><a href="/ko/about/contact">문의 안내</a></li>
+<li><a href="/ko/foia">정보의 자유에 관한 법률(FOIA)</a></li>
+<li ><a href="/ko/about/glossary">용어집(Glossary)</a></li>
+<li><a href="/ko/about/organization/equal-rights/no-fear-act">연방공무원 차별 및 보복 금지법(No FEAR Act)</a></li>
+<li><a href="/ko/about/website-information/plug-ins">플러그인(Plug-In)</a></li>
+<li><a href="/ko/about/privacy-policy">프라이버시</a></li>
+<li><a href="/ko/about/organization/security/disaster-fraud">재난 사기 신고</a></li>
+<li><a href="/ko/about/website-information">웹사이트 정보</a></li>
+<li><a href="https://dhs.gov" target="_blank">DHS.gov</a></li>
+<li><a href="https://usa.gov" target="_blank">USA.gov</a></li>
+<li><a href="https://www.oig.dhs.gov/" target="_blank">감찰관(Inspector General) </a></li>
+</ul>
+</div>
+</div>
+<div class="footer-logo-container">
+<div class="footer-logo-block"><img class="footer-logo" src="/profiles/femad8_gov/themes/fema_uswds/images/fema-seal-footer.svg" alt="FEMA logo" /></div>
+</div>
+</div></div>
+      
+  </div>
+<div id="block-jshotfix" class="block block-block-content block-block-content535a6038-bf64-4db2-8033-3142186c63e9">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-field-custom-text-and-html field--type-text-long field--label-hidden field__item"><script type="text/javascript">
+
+// (function ($) {
+//  Drupal.behaviors.myModule = {
+//    attach: function (context, settings) {
+//      if ($('body').hasClass('page-node-type-filterable-node')) {
+//        var title_text = $('.uswds-page-title').text();
+//        if (title_text) {
+//          if (title_text.split(" ").includes("Rumor:")) {
+//            if (!(document.title.includes("Rumor: "))) {
+//              if (context.title) {
+//                 var newTitle = context.title.replace(' |',':');
+//                 document.title = newTitle;
+//               }
+//             }
+//          }
+//        }
+//      }
+//    }
+//  };
+// })(jQuery);
+
+jQuery('.page-node-type-filterable-node h2:contains("Fact")').remove();
+
+jQuery(document).ready(function(){
+
+jQuery("input#edit-date-of-incorporation-inception").attr("autocomplete", "off");
+
+jQuery('div.profile-img').empty();  
+
+});
+
+jQuery(document).ready(function(){
+  targetPath = '/flood-insurance/work-with-nfip/community-status-book/public-notification/communities-list';
+  if (window.location.pathname.endsWith(targetPath)) {
+    targetTable = jQuery('.field--name-field-data-table-csv .datatable').DataTable();
+    targetTable.order([0, 'desc']).draw();
+  }
+});
+
+</script></div>
+      
+  </div>
+
+  </div>
+
+  
+</div>  </footer>
+
+  </div>
+
+    
+    <script src="/profiles/femad8_gov/modules/custom/back_to_top/js/back_to_top.js?v=10.3.6"></script>
+<script src="/modules/contrib/google_analytics/js/google_analytics.js?v=10.3.6"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/assets/js/uswds.min.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/fema_menu_expansion.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/fema_tables.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/fema_chosen_fix.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/fema_uswds.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/fema_search.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/fema_iframe.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/fema_sitewide.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/fema_search_filter.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/fema_saml.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/fema_code_typography.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/datatables.min.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/fema_tablesaw.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/luxon.min.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/views_data_export_auto_download.js?v=1.x"></script>
+<script src="/modules/contrib/responsive_tables_filter/js/tablesaw.min.js?v=1.x"></script>
+<script src="/modules/contrib/responsive_tables_filter/js/tablesaw-init.js?v=1.x"></script>
+<script src="/modules/contrib/responsive_tables_filter/js/Drupal/ajaxComplete.js?v=1.x"></script>
+<script src="/modules/contrib/responsive_tables_filter/js/customizations.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/query_string.min.js?v=1.x"></script>
+<script src="/profiles/femad8_gov/themes/fema_uswds/js/views_button_filters.js?v=1.x"></script>
+<script src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DHS&amp;subagency=FEMA&amp;yt=true" id="_fed_an_ua_tag"></script>
+<script src="/modules/contrib/extlink/js/extlink.js?v=10.3.6"></script>
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@3.0.1/dist/js.cookie.min.js"></script>
+<script src="/modules/contrib/ableplayer/js/ableplayer.min.js?v=4.4.1"></script>
+<script src="/modules/contrib/emerald_client/js/emerald.ableplayer.js?sndmi0"></script>
+<script src="/libraries/chosen/chosen.jquery.min.js?v=2.2.1"></script>
+<script src="/modules/contrib/chosen/js/chosen.js?v=1.7.0"></script>
+<script src="/modules/contrib/chosen/js/chosen-bef.js?sndmi0"></script>
+
+  </body>
+</html>

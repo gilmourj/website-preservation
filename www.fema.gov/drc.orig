@@ -1,0 +1,443 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>DRC Locator</title>
+
+    
+    <link href="/ESF6/DRCLocator/resources/css/bootstrap.css" rel="stylesheet"/>
+    <link href="/ESF6/DRCLocator/resources/css/docs.css" rel="stylesheet"/>
+
+    
+    <link href="/ESF6/DRCLocator/resources/css/drc_manager.css" rel="stylesheet"/>
+    <link href="/ESF6/DRCLocator/resources/css/select2.css" rel="stylesheet" />
+	<link href="/ESF6/DRCLocator/resources/fonts/font-awesome.css" rel="stylesheet"/>
+	<link href="/ESF6/DRCLocator/resources/fonts/google-fonts.css" rel="stylesheet" />
+	<link href="/ESF6/DRCLocator/resources/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+	<link href="/ESF6/DRCLocator/resources/css/gis/drc-locator.css" rel="stylesheet"/>
+	
+	
+    
+    
+    
+
+ <link rel="stylesheet" href="https://js.arcgis.com/4.24/esri/themes/light/main.css">
+ 
+  </head>
+  <body class="locator opt2" data-spy="scroll" data-target="#navbar-example2">
+	  <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
+	  
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/ESF6/DRCLocator"><img src="/ESF6/DRCLocator/resources/images/fema-logo-main.png" alt="US Department of Homeland Security - Federal Emergency Management Agency" /> Disaster Recovery Center Locator</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="/ESF6/DRCLocator/locatorHelp" role="button" target="_blank"><i class="fa fa-question-circle"></i> Help</a> </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+	<div class="container bs-docs-container" id="content">
+	  <div class="row">
+	    <div class="col-md-12" role="main">
+		  <form id="search-form" class="form-horizontal">
+		  
+		  <h1 class="page-header page-title" id="top">Disaster Recovery Center (DRC) Locator</h1>			
+		  <div class="p-3 mb-2 bg-gradient-light text-dark">	
+		  <p>FEMA Disaster Recovery Centers (DRCs) are accessible facilities and mobile offices you can visit to learn more about FEMA and other disaster assistance programs. You may also visit to ask questions about your case. DRCs are set up in convenient areas after a disaster to make them easier to find. The <strong>DRC Locator</strong> helps you find the hours, services, and locations of DRCs near you.</p>
+		  <p>A DRC may be able to help you:</p>
+		  <ul>
+			<li>Apply for assistance. You may also <a href="https://www.disasterassistance.gov" target="_blank">Apply for FEMA Assistance online</a> or Apply/Check your status by phone 1-800-621-3362.</li>
+			<li>Learn more about disaster assistance programs.</li>
+			<li>Learn the status of your FEMA application.</li>
+			<li>Understand any letters you get from FEMA.</li>
+			<li>Find housing and rental assistance information.</li>
+			<li>Get answers to questions or resolve problems.</li>
+			<li>Get referrals to agencies that may offer other assistance.</li>
+			<li>Learn about Small Business Administration (SBA) programs.</li>
+		  </ul>
+		  </div>				
+		  <section>
+			<h2 id="drc-locator">DRC Locator <span class="drc-results-count"></span></h2>
+			
+			<div id="local-resources-map-container">
+			  <div id="search-criteria-above" class="col-md-12 col-sm-12">
+				<div>
+				  <fieldset class="form-group">
+					<legend class="top col-sm-2">Search By</legend>
+					<div class="btn-group btn-group-sm col-sm-10 search-radius" data-toggle="buttons">
+					  <label class="btn btn-default" for="searchByLocation">
+					    <input name="searchBy" id="searchByLocation" value="location" type="radio">Location
+					  </label>
+					  <label class="btn btn-default" for="searchByState">
+						<input name="searchBy" id="searchByState" value="state" type="radio">State
+					  </label>
+					</div>
+				  </fieldset>
+				</div>
+			  </div>
+			  
+			  <div class="col-md-12 col-sm-12">
+				<div title="DRC Locator map" id="esriMap" class="drc-locator-map esriMap" style="width:100%;height:500px;"></div>
+				<div>
+				</div>
+			  </div>
+			</div>
+			<div id="searchResults">
+			</div>				
+		
+	
+
+
+		  </section>						
+		</form>
+	  </div>
+				
+			  
+	</div>
+  </div>	  
+  <footer>
+    <a href="https://www.fema.gov/" target="_blank">FEMA Home Page</a>
+    <a href="https://www.fema.gov/faq/" target="_blank">Frequently Asked Questions</a>
+    <a href="https://www.fema.gov/privacy-policy" target="_blank">Privacy Policy</a>
+    <a href="https://www.usa.gov/" target="_blank">USA.gov</a>
+    <a href="https://www.dhs.gov/" target="_blank">DHS</a>
+  </footer>
+	  
+    
+    <script src="/ESF6/DRCLocator/resources/js/jquery-3.6.0.js"></script>
+    
+    <script src="/ESF6/DRCLocator/resources/js/bootstrap.js"></script>
+    
+    <script src="/ESF6/DRCLocator/resources/js/select2.js"></script>
+    <script src="/ESF6/DRCLocator/resources/js/moment.js"></script>
+    <script src="/ESF6/DRCLocator/resources/js/moment-timezone-with-data.js"></script>
+    <script src="https://js.arcgis.com/4.24/"></script>
+    <script src="/ESF6/DRCLocator/resources/js/gis/drc-locator.js"></script>
+    <script src="/ESF6/DRCLocator/resources/js/esapi4js/ESAPI.min.js"></script>
+    <script src="/ESF6/DRCLocator/resources/js/esapi4js/i18n/ESAPI_Standard_en_US.properties.js"></script>
+    <script src="/ESF6/DRCLocator/resources/js/esapi4js/Base.esapi.properties.js"></script>
+      <script>
+    	var context = "/ESF6/DRCLocator";
+    	var esriMap, esriMapView;//, searchManager;
+        const yekIpaIrse = 'AAPKc9425e96cb804a0caed6323723cfd396f0I6U7u627-aO0UuzgDdDTskg52B7dix6pZfaYBIMcRHs2y3fkk5HJMY4dJ3ZKz6';
+        const geocodingServiceUrl = 'https://geocode-api.arcgis.com/arcgis/rest/services/World/GeocodeServer';
+    	var locations = [];
+    	var today = new Date();
+		today.setHours(0,0,0,0);
+	  	$(function(){
+		    $('a, button').click(function() {
+		        $(this).toggleClass('active');
+		    });
+		}); 
+		
+		function isCssDisabled() {
+			var isDisabled = false;
+			var links = window.document.getElementsByTagName('link');
+			$(links).each(function() {
+				var rel = $(this).attr('rel');
+				var disabled = $(this).attr('disabled');
+				if(rel == 'stylesheet') {
+					if(typeof disabled !== typeof undefined && disabled !== false) {
+						isDisabled = true;
+					}
+				} 
+			});
+			return isDisabled;
+		}
+		
+		var geoOptions = {
+				enableHighAccuracy: true,
+				timeout: 5000,
+				maximumAge: 0
+		}
+		
+
+
+
+		function geoSearch(position) {
+			var latitude = parseFloat(position.coords.latitude).toFixed(6);
+			var longitude = parseFloat(position.coords.longitude).toFixed(6);
+			var radius = $('input[name=drcRadius]:checked').val();
+			if(radius == "")
+				radius = null;
+			
+			esriMap.setView({center:new Microsoft.Maps.Location(latitude, longitude)});
+			findDrcs(latitude, longitude, radius);
+			unhideResults();
+		}
+		
+		function geoError(err) {
+			console.warn('ERROR(' + err.code + '): ' + err.message);
+		}
+		
+		
+		function geocodeCallbackState(response, addLocationsCallback) {
+			var stCd = $('#selState').val();
+		    if (response && response.length > 0 && response[0].location) { 
+		    	var location = response[0].location;  
+				var latitude = parseFloat(location.latitude).toFixed(6);
+				var longitude = parseFloat(location.longitude).toFixed(6);
+				var requestedLocation = {latitude:latitude,longitude:longitude,stateCode:stCd};
+				findDrcsByState(requestedLocation, addLocationsCallback);
+				unhideResults();
+			} 
+		}
+		
+		function unhideResults() {
+			$('div.drc-result').removeClass('hidden');
+			$('span.drc-results-count').removeClass('hidden');
+		}
+		 		
+		function geocodeCallback(response, addLocationsCallback) { 
+		    if (response && response.length > 0 && response[0].location) {
+		    	var location = response[0].location;  
+				var latitude = parseFloat(location.latitude).toFixed(6);
+				var longitude = parseFloat(location.longitude).toFixed(6);
+				var radius = $('input[name=drcRadius]:checked').val();
+				if(radius == "")
+					radius = null;
+				var requestedLocation = {latitude:latitude,longitude:longitude,radius:radius};
+				findDrcs(requestedLocation, addLocationsCallback);
+				unhideResults();
+			} else { 
+				$("#drc-locator span.drc-results-count").html("&mdash; " + "Please provide an address (City and State) or the ZIP Code.");
+			}
+		}
+
+		function findDrcs(requestedLocation, addLocationsCallback) {
+			var requestData = {	latitude:requestedLocation.latitude,
+								longitude:requestedLocation.longitude};
+			if(requestedLocation.radius != null)
+				requestData.radius = requestedLocation.radius;
+			$("#drc-locator span.drc-results-count").html("&mdash; " + "Loading...");
+			$.ajax({
+				url: context + "/searchLocation",
+				data: requestData,
+				dataType: "json",
+				cache: false,
+				success: function(r) {
+					writeResults(r, requestedLocation, addLocationsCallback);
+				},
+				error: function(e) {
+					alert(e.statusText);
+				}
+			});
+		}
+		
+		function findDrcsByState(requestedLocation, addLocationsCallback) {
+			var requestData = {	stCd:requestedLocation.stateCode};
+			$("#drc-locator span.drc-results-count").html("&mdash; " + "Loading...");
+			$.ajax({
+				url: context + "/searchState",
+				data: requestData,
+				dataType: "json",
+				cache: false,
+				success: function(r) {
+					writeResults(r, requestedLocation,addLocationsCallback);
+				},
+				error: function(e) {
+					alert(e.statusText);
+				}
+			});
+		}
+
+		
+		function writeResults(results, requestedLocation, addLocationsCallback) {
+			//for using ESAPI
+			org.owasp.esapi.ESAPI.initialize();
+
+			$('#searchResults').html('');
+			var resultCount = results.length;
+			locations = [];
+			$.each(results, function(index, result){
+				var count = index + 1;
+				var first = "";
+				if(index == 0)
+					first = "first";
+				var html = "<div id='drc-results-" + count + "' class='col-md-12 col-sm-12 drc-result " + first + "'>";
+				html += "<div class='drc-results-circle'>" + count +"</div>";
+				html += "<div class='drc-details'><div class='drc-header'>";
+				if(result.distance != null) {
+					var distance = parseFloat(result.distance).toFixed(2);
+					html += "<div class='drc-distance'>" + distance + " mi</div>";
+				}
+				var drcType = "FEMA ";
+				html += "<div class='drc-type'><span class='drc-type-bold'>" + drcType + result.drcFullDesc + "</span></div>";
+				html += "</div>";
+				html += "<div class='drc-address'>";
+				html += "<div class='drc-name'><a id='drc_" + count + "' href='#' onClick='showMap(" + count + "," + result.drc.latitude + "," + result.drc.longitude + ")'>" + decode(result.drc.drcName) + "</a></div>";
+				html += "<div class='drc-address'>" + decode(result.drc.street1) + "</div>";
+				if(result.drc.street2 != '' && result.drc.street2 != null)
+					html += "<div class='drc-address'>" + decode(result.drc.street2) + "</div>";
+				html += "<div class='drc-citystatezip'>" + decode(result.drc.city) + ", " + result.drc.stCd + " " + result.drc.zip + "</div>";
+				var county = "County";
+				if(result.drc.stCd == "LA")
+					county = "Parish";
+				html += "<div class='drc-county'>" + result.drc.county + " " + county + "</div>";
+				var destination = "";
+				if(result.drc.locationPriorityCd == "A") {
+					destination = "adr." + encodeURIComponent(result.drc.street1+","+result.drc.city+","+result.drc.stCd);
+				} else if(result.drc.locationPriorityCd == "C") {
+					destination = "pos." + result.drc.latitude + "_" + result.drc.longitude;
+				}
+			 
+				destination = encodeURIComponent(result.drc.street1+","+result.drc.city+","+result.drc.stCd);
+				var directionsUrl = context + "/directions?loc=" + destination+"&lat="+result.drc.latitude+"&long="+result.drc.longitude;
+				html += "<div class='drc-directions'>";
+				html += "<a id='dirMapLink" + count + "' target='_blank' href='" + directionsUrl + "' title='Get directions for " + result.drc.drcName + "' >Get Directions</a>";
+				html += "</div></div>";
+				var notes = "N/A";
+				if(result.drc.notes != null)
+					notes = decode(result.drc.notes);
+				html += "<div class='drc-notes'><label class='control-label'>Notes</label><p>" + notes + "</p></div>";
+				html += "</div>";
+				html += "<section class='drc-hours-week'>";
+				// 3.18.00 MCA-1590 : Modified to display temp close info : gs
+				if(result.drc.tempCloseStartDt) {
+					var dateComp = moment.utc(result.drc.tempCloseEndDt);
+					if(!moment(dateComp).isBefore(moment().utc(), 'day') || null) {
+						var tempStart = new Date(result.drc.tempCloseStartDt);						
+						if (result.drc.tempCloseEndDt == null) {
+							var tempEnd = null;
+						} else {
+							var tempEnd = new Date(result.drc.tempCloseEndDt);
+							var tempEndDate = moment.utc(tempEnd).format('MM/DD/YYYY');
+						}
+						var tempStartDate = moment.utc(tempStart).format('MM/DD/YYYY');
+						if(tempStart.getMinutes() == 1) {
+							var openTime = findOpenTime(result.drc.dotDrcSchedules, moment.utc(tempStart).day());
+							var tempStartTime = openTime != 0?openTime:"beginning of the day";
+						} else {
+							var tempStartTime = moment.utc(tempStart).format('h:mm A');
+						}
+							
+						if (tempEnd == null) {							 
+							var tempEndTime = "undefined";							
+						} else {
+							if(tempEnd.getMinutes() == 1){
+								var openTime = findOpenTime(result.drc.dotDrcSchedules, moment.utc(tempEnd).day());
+								var tempEndTime = openTime != 0?openTime:"beginning of the day";
+							} else {
+								var tempEndTime = moment.utc(tempEnd).format('h:mm A');
+							}
+						}
+						html += "<div class='alert alert-danger'> We apologize for any inconvenience, this DRC will be <strong>Temporarily Closed</strong><br/>";
+						html += "from <strong>" + tempStartDate + "</strong> at <strong>" + tempStartTime + "</strong><br/>";
+						if (tempEndTime == "undefined") {
+							html += "</div>";
+						} else {
+						html += "until <strong>" + tempEndDate + "</strong> at <strong>" + tempEndTime + "</strong>.";
+						html += "</div>";
+						}
+					}
+				}
+				var daysOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+				html += "<h4>Hours of Operation</h4><table class='table-display'><tbody>";
+				for(var i=0;i<7;i++) {
+					html += "<tr><td>" + daysOfWeek[i] + "</td>";
+					html += "<td>";
+					var hours = "Closed";
+					var weekday = i==0?7:i;
+					$.each(result.drc.dotDrcSchedules, function(index, schedule) {				
+						if(schedule.id.dayOfWeek == weekday)
+							hours = formatTime(schedule.openTime) + " - " + formatTime(schedule.closeTime);
+					});
+					html += hours + "</td></tr>";
+				}
+
+				html += "</tbody></table></section>";
+				html += "<div class='clearfix'></div><section class='drc-services col-sm-12'><h4>Available Services</h4>";
+				var serviceTypes = ['FEMA', 'Federal', 'State/Local', 'Other'];
+				for(var i=0;i<4;i++) {
+					html += "<div class=' col-md-3'><fieldset>";
+					html += "<legend>" + serviceTypes[i] + "</legend>";
+					html += "<ul>";
+					$.each(result.drc.dotDrcOfferedServiceses, function(index, service){
+						if(service.dotServiceInfo.dotServiceTypeDef.description.indexOf(serviceTypes[i]) >= 0 && service.statusCd == 'A')
+							html += "<li>" + decode(service.dotServiceInfo.name) + "</li>";
+					});
+					html += "</ul>";
+					html += "</fieldset></div>";
+				}
+				html += "</div>";
+				$('#searchResults').append(html);
+				var locationData = {
+						location: { longitude: parseFloat(result.drc.longitude), latitude: parseFloat(result.drc.latitude) },
+						counter: count,
+						address:result.drc.street1+","+result.drc.city+","+result.drc.stCd
+				}
+				locations.push(locationData);
+			});
+			var message = "No results";
+			if(resultCount == 1)
+				message = "1 Result";
+			else if(resultCount > 1)
+				message = resultCount + " Results";
+			$("#drc-locator span.drc-results-count").html("&mdash; " + $ESAPI.encoder().encodeForHTML(message));
+			//if(resultCount > 0) {
+				addLocationsCallback(requestedLocation,locations);
+			//}
+		}
+		function formatTime(time) {
+			var parts = time.split(":");
+			var hours = parseInt(parts[0],10);
+			var minutes = parts[1].length < 2?"0"+parts[1]:parts[1];
+			var suffix = " AM";
+			if(hours == 0)
+				hours = 12;
+			else if(hours >= 12) {
+				hours = hours==12?hours:hours - 12;
+				suffix = " PM";
+			}
+			return hours + ":" + minutes + suffix;
+		}
+		
+		function findOpenTime(schedules, weekday) {
+			var openTime = 0;
+			var day = weekday==0?7:weekday;
+			$.each(schedules, function(index, schedule) {				
+				if(schedule.id.dayOfWeek == day)
+					openTime = formatTime(schedule.openTime);
+			});
+			return openTime;
+		}
+		
+		function showDrcInfo(count) {
+			$('html, body').animate({
+				scrollTop: $('#drc_'+count).offset().top-100
+			},2000);
+		}
+		
+		function showMap(index, latitude, longitude) {
+			esriMapView.goTo({
+	                center: [longitude, latitude],
+	                zoom: 16
+	            });
+			$('html, body').animate({
+				scrollTop: $('#esriMap').offset().top-100
+			},2000);
+		}
+		
+		function decode(name) {
+			return name.replace(/&amp;/g, '&').replace(/&#39;/g,"'");
+		}
+	  </script>
+  </body>
+</html>
